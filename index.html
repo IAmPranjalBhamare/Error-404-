@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinguaQuest - Master Languages Through Adventure</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/animations.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/celebration.css">
+</head>
+<body>
+    <!-- Dynamic Background -->
+    <div class="dynamic-background" id="dynamic-background"></div>
+    
+    <!-- Animated Background Elements -->
+    <div class="bg-shapes" id="bg-shapes">
+        <div class="shape"></div>
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+
+    <!-- Confetti Container -->
+    <div class="confetti-container" id="confetti-container"></div>
+
+    <!-- Lightning Overlay -->
+    <div class="lightning-overlay" id="lightning-overlay"></div>
+
+    <!-- Particle Effects -->
+    <div class="particles" id="particles"></div>
+
+    <!-- Navigation Menu -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <img src="assets/logo.png" alt="LinguaQuest" class="logo-image">
+                <span class="logo-text">LinguaQuest</span>
+            </div>
+            <div class="nav-menu">
+                <div class="nav-item active" onclick="showSection('dashboard')">Dashboard</div>
+                <div class="nav-item" onclick="showSection('languages')">Languages</div>
+                <div class="nav-item" onclick="showCompetitionMenu()">Competition</div>
+                <div class="nav-item" onclick="showSection('achievements')">Achievements</div>
+                <div class="nav-item" onclick="showSection('vocabulary')">Vocabulary</div>
+                <div class="nav-item" onclick="showSection('leaderboard')">Leaderboard</div>
+                <div class="nav-item" onclick="showSection('settings')">Settings</div>
+            </div>
+            <div class="nav-profile" onclick="showUserProfile()">
+                <div class="profile-avatar" id="profile-avatar">U</div>
+                <div class="profile-info">
+                    <div class="profile-name" id="profile-name">User</div>
+                    <div class="profile-level" id="profile-level">Level 1</div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <div class="container">
+            <!-- Header -->
+            <div class="header">
+                <div class="logo">LinguaQuest</div>
+                <div class="tagline">Master Languages Through Adventure</div>
+            </div>
+
+            <!-- Game Stats -->
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-value" id="xp-display">0</span>
+                    <span class="stat-label">XP</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="streak-display">0</span>
+                    <span class="stat-label">Day Streak</span>
+                </div>
+                <div class="stat">
+                    <div class="hearts-display" id="hearts-display">❤️❤️❤️❤️❤️</div>
+                    <span class="stat-label">Hearts</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="level-display">1</span>
+                    <span class="stat-label">Level</span>
+                </div>
+                <div class="stat" id="practice-mode-stat" style="display: none;">
+                    <div class="practice-mode-indicator">📚 Practice</div>
+                    <span class="stat-label">Mode</span>
+                </div>
+            </div>
+
+            <!-- Main Content Card -->
+            <div class="main-card">
+                <!-- Dashboard Section -->
+                <div class="section" id="dashboard">
+                    <div class="dashboard">
+                        <div class="dashboard-card">
+                            <div class="dashboard-title">📊 Today's Progress</div>
+                            <div class="dashboard-content" id="today-xp">0 XP</div>
+                            <div class="dashboard-subtitle">Keep learning to earn more!</div>
+                        </div>
+                        <div class="dashboard-card">
+                            <div class="dashboard-title">🎯 Current Streak</div>
+                            <div class="dashboard-content" id="current-streak">0 days</div>
+                            <div class="dashboard-subtitle">Don't break the chain!</div>
+                        </div>
+                        <div class="dashboard-card">
+                            <div class="dashboard-title">🏆 Achievements</div>
+                            <div class="dashboard-content" id="achievements-count">0/12</div>
+                            <div class="dashboard-subtitle">Unlock more by learning!</div>
+                        </div>
+                    </div>
+
+                    <!-- Daily Challenge -->
+                    <div class="daily-challenge">
+                        <div class="challenge-title">🌟 Daily Challenge</div>
+                        <div class="challenge-reward">Complete 5 lessons today for 50 bonus XP!</div>
+                    </div>
+
+                    <!-- Quick Actions -->
+                    <div style="text-align: center; margin-top: 30px;">
+                        <button class="btn" onclick="showSection('languages')">🚀 Start Learning</button>
+                        <button class="btn btn-secondary" onclick="showCompetitionMenu()">🎯 Competition</button>
+                        <button class="btn btn-secondary" onclick="showSection('achievements')">🏆 View Achievements</button>
+                    </div>
+                </div>
+
+                <!-- Language Selection Section -->
+                <div class="section" id="languages" style="display: none;">
+                    <div class="language-selection">
+                        <h2 class="section-title">Choose Your Language Adventure</h2>
+                        <div class="language-grid">
+                            <div class="language-card" onclick="selectLanguage('spanish')">
+                                <span class="language-flag">🇪🇸</span>
+                                <div class="language-name">Spanish</div>
+                                <div class="language-level">Beginner</div>
+                                <div class="language-progress">
+                                    <div class="language-progress-fill" style="width: 0%"></div>
+                                </div>
+                            </div>
+                            <div class="language-card" onclick="selectLanguage('french')">
+                                <span class="language-flag">🇫🇷</span>
+                                <div class="language-name">French</div>
+                                <div class="language-level">Beginner</div>
+                                <div class="language-progress">
+                                    <div class="language-progress-fill" style="width: 0%"></div>
+                                </div>
+                            </div>
+                            <div class="language-card" onclick="selectLanguage('german')">
+                                <span class="language-flag">🇩🇪</span>
+                                <div class="language-name">German</div>
+                                <div class="language-level">Beginner</div>
+                                <div class="language-progress">
+                                    <div class="language-progress-fill" style="width: 0%"></div>
+                                </div>
+                            </div>
+                            <div class="language-card" onclick="selectLanguage('italian')">
+                                <span class="language-flag">🇮🇹</span>
+                                <div class="language-name">Italian</div>
+                                <div class="language-level">Beginner</div>
+                                <div class="language-progress">
+                                    <div class="language-progress-fill" style="width: 0%"></div>
+                                </div>
+                            </div>
+                            <div class="language-card" onclick="selectLanguage('portuguese')">
+                                <span class="language-flag">🇵🇹</span>
+                                <div class="language-name">Portuguese</div>
+                                <div class="language-level">Beginner</div>
+                                <div class="language-progress">
+                                    <div class="language-progress-fill" style="width: 0%"></div>
+                                </div>
+                            </div>
+                            <div class="language-card" onclick="selectLanguage('japanese')">
+                                <span class="language-flag">🇯🇵</span>
+                                <div class="language-name">Japanese</div>
+                                <div class="language-level">Beginner</div>
+                                <div class="language-progress">
+                                    <div class="language-progress-fill" style="width: 0%"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Competition Section -->
+                <div class="section" id="competition" style="display: none;">
+                    <div class="section-header">
+                        <h2>🎯 1v1 Competition</h2>
+                        <p>Challenge yourself against AI or other players!</p>
+                    </div>
+                    
+                    <div class="language-selection-competition" style="margin-bottom: 20px;">
+                        <h3>🌍 Competition Language</h3>
+                        <div class="language-grid-competition">
+                            <div class="language-card-small selected" onclick="selectCompetitionLanguage('german')">
+                                <div class="flag">🇩🇪</div>
+                                <span>German</span>
+                            </div>
+                        </div>
+                        <div class="selected-language-display" id="selected-language-display" style="display: block;">
+                            <span>Competition Language: <strong id="selected-language-name">German</strong></span>
+                        </div>
+                    </div>
+                    
+                    <div class="competition-modes">
+                        <div class="competition-mode-card" onclick="startCompetition('bot')">
+                            <div class="mode-icon">🤖</div>
+                            <h3>vs Bot</h3>
+                            <p>Challenge our AI opponent</p>
+                            <div class="mode-difficulty">
+                                <span>Difficulty: Medium</span>
+                            </div>
+                            <div class="mode-reward">
+                                <span>🏆 Win = +1 Heart</span>
+                            </div>
+                        </div>
+                        
+                        <div class="competition-mode-card disabled" onclick="showToast('Player vs Player coming soon! 🚀', 'warning')">
+                            <div class="mode-icon">👥</div>
+                            <h3>vs Player</h3>
+                            <p>Challenge other learners</p>
+                            <div class="mode-status">
+                                <span>Coming Soon!</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="competition-info-grid">
+                        <div class="competition-rules">
+                            <h3>📋 Rules</h3>
+                            <ul>
+                                <li>5 questions per competition</li>
+                                <li>15 seconds per question</li>
+                                <li>Win to earn +1 Heart</li>
+                                <li>Questions from your selected language</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="competition-stats">
+                            <h3>📊 Your Competition Stats</h3>
+                            <div class="stats-grid">
+                                <div class="stat-item">
+                                    <span class="stat-number">0</span>
+                                    <span class="stat-label">Wins</span>
+                                </div>
+                                <div class="stat-item">
+                                    <span class="stat-number">0</span>
+                                    <span class="stat-label">Losses</span>
+                                </div>
+                                <div class="stat-item">
+                                    <span class="stat-number">0%</span>
+                                    <span class="stat-label">Win Rate</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Achievements Section -->
+                <div class="section" id="achievements" style="display: none;">
+                    <h2 class="section-title">🏆 Your Achievements</h2>
+                    <div class="achievements-grid" id="achievements-grid">
+                        <!-- Achievements will be populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Vocabulary Bank Section -->
+                <div class="section" id="vocabulary" style="display: none;">
+                    <div class="vocabulary-bank">
+                        <h2 class="section-title">📚 Your Vocabulary Bank</h2>
+                        <input type="text" class="vocab-search" placeholder="Search your vocabulary..." oninput="filterVocabulary(this.value)">
+                        <div class="vocab-list" id="vocab-list">
+                            <!-- Vocabulary items will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Study Streak Calendar Section -->
+                <div class="section" id="calendar" style="display: none;">
+                    <div class="streak-calendar">
+                        <h2 class="section-title">📅 Study Streak Calendar</h2>
+                        <div class="calendar-grid" id="calendar-grid">
+                            <!-- Calendar will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Leaderboard Section -->
+                <div class="section" id="leaderboard" style="display: none;">
+                    <div class="leaderboard">
+                        <h2 class="section-title">🏅 Global Leaderboard</h2>
+                        <div id="leaderboard-list">
+                            <!-- Leaderboard will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Settings Section -->
+                <div class="section" id="settings" style="display: none;">
+                    <div class="settings-panel">
+                        <h2 class="section-title">⚙️ Settings</h2>
+                        <div class="settings-group">
+                            <div class="settings-title">Audio & Voice</div>
+                            <div class="settings-item">
+                                <span>Sound Effects</span>
+                                <div class="toggle-switch active" onclick="toggleSetting('sound')">
+                                    <div class="toggle-slider"></div>
+                                </div>
+                            </div>
+                            <div class="settings-item">
+                                <span>Voice Pronunciation</span>
+                                <div class="toggle-switch active" onclick="toggleSetting('voice')">
+                                    <div class="toggle-slider"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="settings-group">
+                            <div class="settings-title">Notifications</div>
+                            <div class="settings-item">
+                                <span>Daily Reminders</span>
+                                <div class="toggle-switch active" onclick="toggleSetting('notifications')">
+                                    <div class="toggle-slider"></div>
+                                </div>
+                            </div>
+                            <div class="settings-item">
+                                <span>Achievement Alerts</span>
+                                <div class="toggle-switch active" onclick="toggleSetting('achievements')">
+                                    <div class="toggle-slider"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="settings-group">
+                            <div class="settings-title">Learning</div>
+                            <div class="settings-item">
+                                <span>Show Hints</span>
+                                <div class="toggle-switch active" onclick="toggleSetting('hints')">
+                                    <div class="toggle-slider"></div>
+                                </div>
+                            </div>
+                            <div class="settings-item">
+                                <span>Auto-advance</span>
+                                <div class="toggle-switch" onclick="toggleSetting('autoAdvance')">
+                                    <div class="toggle-slider"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="text-align: center; margin-top: 30px;">
+                            <button class="btn btn-secondary" onclick="resetProgress()">🔄 Reset Progress</button>
+                            <button class="btn btn-game" onclick="exportProgress()">📤 Export Data</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Lesson Interface (Hidden by default) -->
+    <div class="lesson-interface" id="lesson-interface" style="display: none;">
+        <div class="container">
+            <div class="lesson-header">
+                <button class="btn btn-secondary" onclick="goHome()">🏠 Home</button>
+                <h2 id="lesson-title">Lesson Title</h2>
+                <button class="btn btn-game" id="game-mode-btn" onclick="showGameModes()">🎮 Game Mode</button>
+            </div>
+
+            <div class="progress-container">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <div class="progress-label" id="progress-label">Question 1 of 10</div>
+            </div>
+
+            <!-- Game Mode Selector -->
+            <div class="game-mode-selector" id="game-mode-selector" style="display: none;">
+                <div class="game-mode" onclick="startGameMode('speed')">
+                    <span class="game-mode-icon">⚡</span>
+                    <div class="game-mode-title">Speed Round</div>
+                    <div class="game-mode-desc">Answer quickly for bonus points!</div>
+                </div>
+                <div class="game-mode" onclick="startGameMode('memory')">
+                    <span class="game-mode-icon">🧠</span>
+                    <div class="game-mode-title">Memory Challenge</div>
+                    <div class="game-mode-desc">Remember and recall words!</div>
+                </div>
+                <div class="game-mode" onclick="startGameMode('pronunciation')">
+                    <span class="game-mode-icon">🎤</span>
+                    <div class="game-mode-title">Pronunciation</div>
+                    <div class="game-mode-desc">Practice speaking skills!</div>
+                </div>
+                <div class="game-mode" onclick="startGameMode('story')">
+                    <span class="game-mode-icon">📖</span>
+                    <div class="game-mode-title">Story Mode</div>
+                    <div class="game-mode-desc">Learn through stories!</div>
+                </div>
+            </div>
+
+            <!-- Question Container -->
+            <div class="question-container" id="question-container">
+                <!-- Questions will be loaded here -->
+            </div>
+
+            <!-- Feedback -->
+            <div class="feedback" id="feedback" style="display: none;"></div>
+
+            <!-- Hint System -->
+            <div class="hint-system" id="hint-system">
+                <button class="btn btn-game hint-btn" onclick="showHint()">💡 Hint</button>
+                <div class="hint-text" id="hint-text" style="display: none;"></div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="lesson-actions">
+                <button class="btn" id="check-btn" onclick="checkAnswer()">Check Answer</button>
+                <button class="btn btn-game" id="next-btn" onclick="nextQuestion()" style="display: none;">Next Question</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- LinguaQuest Bot -->
+    <div class="bot-container">
+        <div class="bot" onclick="toggleBot()">🤖</div>
+        <div class="bot-speech" id="bot-speech">
+            <div class="bot-message" id="bot-message">Welcome to LinguaQuest! Ready to start your language adventure?</div>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <!-- Celebration Modal -->
+    <div class="celebration-modal" id="celebration-modal">
+        <div class="celebration-content">
+            <div class="firecracker-container" id="firecracker-container"></div>
+            <div class="trophy-icon">🏆</div>
+            <h2 class="celebration-title celebration-text">Congratulations!</h2>
+            <p class="celebration-message" id="celebration-message">You've completed the lesson!</p>
+            <div class="celebration-stats" id="celebration-stats">
+                <div class="celebration-stat">
+                    <span class="celebration-stat-number" id="lesson-score">100%</span>
+                    <span class="celebration-stat-label">Accuracy</span>
+                </div>
+                <div class="celebration-stat">
+                    <span class="celebration-stat-number" id="xp-earned">+50</span>
+                    <span class="celebration-stat-label">XP Earned</span>
+                </div>
+                <div class="celebration-stat">
+                    <span class="celebration-stat-number" id="streak-count">5</span>
+                    <span class="celebration-stat-label">Streak</span>
+                </div>
+            </div>
+            <button class="celebration-button" onclick="closeCelebration()">Continue Learning! 🚀</button>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/utils.js"></script>
+    <script src="js/animations.js"></script>
+    <script src="js/celebration.js"></script>
+    <script src="js/gameLogic.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
+

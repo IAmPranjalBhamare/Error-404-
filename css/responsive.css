@@ -1,0 +1,504 @@
+/* LinguaQuest - Responsive Styles */
+
+/* Tablet Styles */
+@media (max-width: 1024px) {
+    .container {
+        padding: 15px;
+    }
+    
+    .nav-container {
+        padding: 0 15px;
+    }
+    
+    .nav-menu {
+        gap: 20px;
+    }
+    
+    .nav-item {
+        padding: 6px 12px;
+        font-size: 0.9rem;
+    }
+    
+    .logo {
+        font-size: 2.5rem;
+    }
+    
+    .stats {
+        gap: 20px;
+    }
+    
+    .stat {
+        padding: 12px 20px;
+        min-width: 80px;
+    }
+    
+    .main-card {
+        padding: 20px;
+    }
+    
+    .dashboard {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+    }
+    
+    .language-grid {
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 15px;
+    }
+    
+    .achievements-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+    
+    .game-mode-selector {
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 15px;
+    }
+    
+    .options-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 10px;
+    }
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    
+    .navbar {
+        padding: 10px 0;
+    }
+    
+    .nav-container {
+        padding: 0 10px;
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .nav-menu {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+    
+    .nav-item {
+        padding: 5px 10px;
+        font-size: 0.8rem;
+    }
+    
+    .nav-logo {
+        font-size: 1.3rem;
+    }
+    
+    .main-content {
+        margin-top: 120px;
+    }
+    
+    .header {
+        margin-bottom: 30px;
+    }
+    
+    .logo {
+        font-size: 2rem;
+    }
+    
+    .tagline {
+        font-size: 1rem;
+    }
+    
+    .stats {
+        gap: 15px;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .stat {
+        padding: 10px 15px;
+        min-width: 120px;
+        width: 100%;
+        max-width: 200px;
+    }
+    
+    .stat-value {
+        font-size: 1.3rem;
+    }
+    
+    .main-card {
+        padding: 15px;
+        border-radius: 20px;
+    }
+    
+    .section-title {
+        font-size: 1.5rem;
+        margin-bottom: 20px;
+    }
+    
+    .dashboard {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    .dashboard-card {
+        padding: 20px;
+    }
+    
+    .dashboard-title {
+        font-size: 1.1rem;
+    }
+    
+    .dashboard-content {
+        font-size: 1.5rem;
+    }
+    
+    .language-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 10px;
+    }
+    
+    .language-card {
+        padding: 20px 15px;
+    }
+    
+    .language-flag {
+        font-size: 2.5rem;
+    }
+    
+    .language-name {
+        font-size: 1.1rem;
+    }
+    
+    .achievements-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    .achievement {
+        padding: 15px;
+    }
+    
+    .game-mode-selector {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+    
+    .game-mode {
+        padding: 20px;
+    }
+    
+    .game-mode-icon {
+        font-size: 2rem;
+    }
+    
+    .vocab-list {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+    
+    .calendar-grid {
+        gap: 3px;
+    }
+    
+    .calendar-day {
+        font-size: 0.7rem;
+    }
+    
+    .leaderboard-item {
+        padding: 10px;
+    }
+    
+    .leaderboard-avatar {
+        width: 35px;
+        height: 35px;
+        margin-right: 10px;
+    }
+    
+    .settings-panel {
+        padding: 20px;
+    }
+    
+    .settings-item {
+        padding: 10px 0;
+    }
+    
+    .btn {
+        padding: 12px 25px;
+        font-size: 1rem;
+        margin: 5px;
+    }
+    
+    .lesson-interface {
+        padding: 10px 0;
+    }
+    
+    .lesson-header {
+        flex-direction: column;
+        gap: 15px;
+        margin-bottom: 20px;
+    }
+    
+    .lesson-title {
+        font-size: 1.5rem;
+    }
+    
+    .progress-container {
+        padding: 15px;
+    }
+    
+    .question-container {
+        padding: 20px;
+    }
+    
+    .question-text {
+        font-size: 1.1rem;
+    }
+    
+    .options-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+    
+    .option {
+        padding: 12px 15px;
+    }
+    
+    .lesson-actions {
+        margin-top: 20px;
+    }
+    
+    .lesson-actions .btn {
+        display: block;
+        width: 100%;
+        margin: 5px 0;
+    }
+    
+    .bot-container {
+        bottom: 15px;
+        right: 15px;
+    }
+    
+    .bot {
+        width: 60px;
+        height: 60px;
+        font-size: 1.5rem;
+    }
+    
+    .bot-speech {
+        bottom: 70px;
+        max-width: 200px;
+        padding: 12px 15px;
+    }
+    
+    .bot-message {
+        font-size: 0.8rem;
+    }
+    
+    .toast-container {
+        top: 80px;
+        right: 10px;
+        left: 10px;
+    }
+    
+    .toast {
+        margin-bottom: 5px;
+        padding: 12px 15px;
+    }
+}
+
+/* Small Mobile Styles */
+@media (max-width: 480px) {
+    .nav-container {
+        gap: 10px;
+    }
+    
+    .nav-menu {
+        gap: 5px;
+    }
+    
+    .nav-item {
+        padding: 4px 8px;
+        font-size: 0.7rem;
+    }
+    
+    .main-content {
+        margin-top: 140px;
+    }
+    
+    .logo {
+        font-size: 1.8rem;
+    }
+    
+    .tagline {
+        font-size: 0.9rem;
+    }
+    
+    .main-card {
+        padding: 15px;
+        border-radius: 15px;
+    }
+    
+    .section-title {
+        font-size: 1.3rem;
+    }
+    
+    .dashboard-card {
+        padding: 15px;
+    }
+    
+    .language-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .language-card {
+        padding: 15px;
+    }
+    
+    .language-flag {
+        font-size: 2rem;
+    }
+    
+    .btn {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+    
+    .question-container {
+        padding: 15px;
+    }
+    
+    .question-text {
+        font-size: 1rem;
+    }
+    
+    .bot {
+        width: 50px;
+        height: 50px;
+        font-size: 1.2rem;
+    }
+    
+    .bot-speech {
+        bottom: 60px;
+        max-width: 180px;
+        padding: 10px 12px;
+    }
+}
+
+/* Landscape Mobile */
+@media (max-height: 500px) and (orientation: landscape) {
+    .main-content {
+        margin-top: 60px;
+    }
+    
+    .navbar {
+        padding: 5px 0;
+    }
+    
+    .nav-container {
+        flex-direction: row;
+        gap: 10px;
+    }
+    
+    .header {
+        margin-bottom: 20px;
+    }
+    
+    .logo {
+        font-size: 1.5rem;
+    }
+    
+    .stats {
+        flex-direction: row;
+        gap: 10px;
+    }
+    
+    .stat {
+        min-width: 80px;
+        padding: 8px 12px;
+    }
+    
+    .main-card {
+        padding: 15px;
+    }
+    
+    .bot-container {
+        bottom: 10px;
+        right: 10px;
+    }
+    
+    .bot {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+/* High DPI Displays */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .logo {
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+    }
+    
+    .btn {
+        box-shadow: 0 3px 10px rgba(102, 126, 234, 0.2);
+    }
+    
+    .main-card {
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
+    }
+}
+
+/* Print Styles */
+@media print {
+    .navbar,
+    .bot-container,
+    .toast-container,
+    .bg-shapes,
+    .confetti-container,
+    .lightning-overlay,
+    .particles {
+        display: none !important;
+    }
+    
+    .main-content {
+        margin-top: 0;
+    }
+    
+    .main-card {
+        box-shadow: none;
+        border: 1px solid #ddd;
+    }
+    
+    .btn {
+        border: 1px solid #333;
+        background: white !important;
+        color: #333 !important;
+    }
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+    
+    .shape {
+        animation: none;
+    }
+    
+    .bot {
+        animation: none;
+    }
+    
+    .language-flag {
+        animation: none;
+    }
+    
+    .achievement.unlocked {
+        animation: none;
+    }
+}
+

@@ -1,0 +1,3846 @@
+{
+  "spanish": [
+    {
+      "word": "hola",
+      "meaning": "hello",
+      "pronunciation": "OH-lah",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "¡Hola! ¿Cómo estás?",
+        "Hola, me llamo María."
+      ]
+    },
+    {
+      "word": "gracias",
+      "meaning": "thank you",
+      "pronunciation": "GRAH-see-ahs",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Gracias por tu ayuda.",
+        "¡Muchas gracias!"
+      ]
+    },
+    {
+      "word": "adiós",
+      "meaning": "goodbye",
+      "pronunciation": "ah-dee-OHS",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "Adiós, nos vemos mañana.",
+        "¡Adiós y buen viaje!"
+      ]
+    },
+    {
+      "word": "buenos días",
+      "meaning": "good morning",
+      "pronunciation": "BWEH-nohs DEE-ahs",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "Buenos días, ¿cómo está?"
+      ]
+    },
+    {
+      "word": "buenas tardes",
+      "meaning": "good afternoon",
+      "pronunciation": "BWEH-nahs TAR-dehs",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "Buenas tardes, señorita."
+      ]
+    },
+    {
+      "word": "buenas noches",
+      "meaning": "good night",
+      "pronunciation": "BWEH-nahs NO-chehs",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "Buenas noches, que descanses."
+      ]
+    },
+    {
+      "word": "¿cómo estás?",
+      "meaning": "how are you?",
+      "pronunciation": "KOH-moh ehs-TAHS",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "Hola, ¿cómo estás?"
+      ]
+    },
+    {
+      "word": "estoy bien",
+      "meaning": "I'm good",
+      "pronunciation": "ehs-TOY byehn",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "Estoy bien, gracias."
+      ]
+    },
+    {
+      "word": "mucho gusto",
+      "meaning": "nice to meet you",
+      "pronunciation": "MOO-choh GOOS-toh",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "Mucho gusto en conocerte."
+      ]
+    },
+    {
+      "word": "¿cómo te llamas?",
+      "meaning": "what's your name?",
+      "pronunciation": "KOH-moh teh YAH-mahs",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "¿Hola, cómo te llamas?"
+      ]
+    },
+    {
+      "word": "uno",
+      "meaning": "one",
+      "pronunciation": "OO-noh",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Tengo un libro."
+      ]
+    },
+    {
+      "word": "dos",
+      "meaning": "two",
+      "pronunciation": "dohs",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Compré dos manzanas."
+      ]
+    },
+    {
+      "word": "tres",
+      "meaning": "three",
+      "pronunciation": "trehs",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Hay tres gatos."
+      ]
+    },
+    {
+      "word": "cuatro",
+      "meaning": "four",
+      "pronunciation": "KWAH-troh",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Cuatro amigos."
+      ]
+    },
+    {
+      "word": "cinco",
+      "meaning": "five",
+      "pronunciation": "SEEN-koh",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Cinco dedos."
+      ]
+    },
+    {
+      "word": "seis",
+      "meaning": "six",
+      "pronunciation": "seys",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Seis sillas."
+      ]
+    },
+    {
+      "word": "siete",
+      "meaning": "seven",
+      "pronunciation": "SYEH-teh",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Siete días."
+      ]
+    },
+    {
+      "word": "ocho",
+      "meaning": "eight",
+      "pronunciation": "OH-choh",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Ocho horas."
+      ]
+    },
+    {
+      "word": "nueve",
+      "meaning": "nine",
+      "pronunciation": "NWEH-veh",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Nueve pájaros."
+      ]
+    },
+    {
+      "word": "diez",
+      "meaning": "ten",
+      "pronunciation": "dyehs",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Diez minutos."
+      ]
+    },
+    {
+      "word": "día",
+      "meaning": "day",
+      "pronunciation": "DEE-ah",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Hoy es un buen día."
+      ]
+    },
+    {
+      "word": "noche",
+      "meaning": "night",
+      "pronunciation": "NO-cheh",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Buenas noches."
+      ]
+    },
+    {
+      "word": "mañana",
+      "meaning": "morning",
+      "pronunciation": "mah-NYAH-nah",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Mañana por la mañana."
+      ]
+    },
+    {
+      "word": "tarde",
+      "meaning": "afternoon",
+      "pronunciation": "TAR-deh",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Por la tarde."
+      ]
+    },
+    {
+      "word": "fiesta",
+      "meaning": "holiday",
+      "pronunciation": "FYEHS-tah",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Vamos de fiesta."
+      ]
+    },
+    {
+      "word": "agua",
+      "meaning": "water",
+      "pronunciation": "AH-gwah",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Quiero agua."
+      ]
+    },
+    {
+      "word": "café",
+      "meaning": "coffee",
+      "pronunciation": "kah-FEH",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Un café, por favor."
+      ]
+    },
+    {
+      "word": "té",
+      "meaning": "tea",
+      "pronunciation": "teh",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Té con leche."
+      ]
+    },
+    {
+      "word": "leche",
+      "meaning": "milk",
+      "pronunciation": "LEH-cheh",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Un vaso de leche."
+      ]
+    },
+    {
+      "word": "pan",
+      "meaning": "bread",
+      "pronunciation": "pahn",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Pan y queso."
+      ]
+    },
+    {
+      "word": "queso",
+      "meaning": "cheese",
+      "pronunciation": "KEH-soh",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Me gusta el queso."
+      ]
+    },
+    {
+      "word": "huevo",
+      "meaning": "egg",
+      "pronunciation": "WEH-voh",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Un huevo frito."
+      ]
+    },
+    {
+      "word": "coche",
+      "meaning": "car",
+      "pronunciation": "KOH-cheh",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Mi coche es rojo."
+      ]
+    },
+    {
+      "word": "autobús",
+      "meaning": "bus",
+      "pronunciation": "ow-toh-BOOS",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Tomar el autobús."
+      ]
+    },
+    {
+      "word": "tren",
+      "meaning": "train",
+      "pronunciation": "trehn",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Viajar en tren."
+      ]
+    },
+    {
+      "word": "avión",
+      "meaning": "airplane",
+      "pronunciation": "ah-BYOHN",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Ir en avión."
+      ]
+    },
+    {
+      "word": "taxi",
+      "meaning": "taxi",
+      "pronunciation": "TAHK-see",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Llamar un taxi."
+      ]
+    },
+    {
+      "word": "metro",
+      "meaning": "metro/subway",
+      "pronunciation": "MEH-troh",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Usar el metro."
+      ]
+    },
+    {
+      "word": "camisa",
+      "meaning": "shirt",
+      "pronunciation": "kah-MEE-sah",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Una camisa azul."
+      ]
+    },
+    {
+      "word": "pantalones",
+      "meaning": "pants",
+      "pronunciation": "pahn-tah-LOH-nehs",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Pantalones negros."
+      ]
+    },
+    {
+      "word": "zapatos",
+      "meaning": "shoes",
+      "pronunciation": "sah-PAH-tohs",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Zapatos nuevos."
+      ]
+    },
+    {
+      "word": "gorro",
+      "meaning": "hat",
+      "pronunciation": "GOH-rroh",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Un gorro de lana."
+      ]
+    },
+    {
+      "word": "bufanda",
+      "meaning": "scarf",
+      "pronunciation": "boo-FAHN-dah",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Una bufanda roja."
+      ]
+    },
+    {
+      "word": "gafas",
+      "meaning": "glasses",
+      "pronunciation": "GAH-fahs",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Mis gafas."
+      ]
+    },
+    {
+      "word": "bolsa",
+      "meaning": "bag",
+      "pronunciation": "BOHL-sah",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Una bolsa grande."
+      ]
+    },
+    {
+      "word": "feliz",
+      "meaning": "happy",
+      "pronunciation": "feh-LEES",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Estoy feliz."
+      ]
+    },
+    {
+      "word": "triste",
+      "meaning": "sad",
+      "pronunciation": "TREES-teh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Ella está triste."
+      ]
+    },
+    {
+      "word": "enojado",
+      "meaning": "angry",
+      "pronunciation": "eh-noh-HAH-doh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Él está enojado."
+      ]
+    },
+    {
+      "word": "cansado",
+      "meaning": "tired",
+      "pronunciation": "kahn-SAH-doh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Estoy cansado."
+      ]
+    },
+    {
+      "word": "nervioso",
+      "meaning": "nervous",
+      "pronunciation": "nehr-BYOH-soh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Estoy nervioso."
+      ]
+    },
+    {
+      "word": "contento",
+      "meaning": "content",
+      "pronunciation": "kohn-TEHN-toh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Estoy contento."
+      ]
+    },
+    {
+      "word": "asustado",
+      "meaning": "scared",
+      "pronunciation": "ah-soos-TAH-doh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Estoy asustado."
+      ]
+    },
+    {
+      "word": "enamorado",
+      "meaning": "in love",
+      "pronunciation": "eh-nah-moh-RAH-doh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Estoy enamorado."
+      ]
+    },
+    {
+      "word": "preocupado",
+      "meaning": "worried",
+      "pronunciation": "preh-oh-koo-PAH-doh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Estoy preocupado."
+      ]
+    },
+    {
+      "word": "emocionado",
+      "meaning": "excited",
+      "pronunciation": "eh-moh-syo-NAH-doh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Estoy emocionado."
+      ]
+    },
+    {
+      "word": "casa",
+      "meaning": "house",
+      "pronunciation": "KAH-sah",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Mi casa es grande."
+      ]
+    },
+    {
+      "word": "calle",
+      "meaning": "street",
+      "pronunciation": "KAH-yeh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "La calle es larga."
+      ]
+    },
+    {
+      "word": "ciudad",
+      "meaning": "city",
+      "pronunciation": "syoo-DAHD",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Vivo en la ciudad."
+      ]
+    },
+    {
+      "word": "país",
+      "meaning": "country",
+      "pronunciation": "pah-EES",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Mi país es hermoso."
+      ]
+    },
+    {
+      "word": "mundo",
+      "meaning": "world",
+      "pronunciation": "MOON-doh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Viajar por el mundo."
+      ]
+    },
+    {
+      "word": "escuela",
+      "meaning": "school",
+      "pronunciation": "es-KWEH-lah",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Voy a la escuela."
+      ]
+    },
+    {
+      "word": "hospital",
+      "meaning": "hospital",
+      "pronunciation": "os-pee-TAHL",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Necesito ir al hospital."
+      ]
+    },
+    {
+      "word": "restaurante",
+      "meaning": "restaurant",
+      "pronunciation": "res-tow-RAHN-teh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Comemos en el restaurante."
+      ]
+    },
+    {
+      "word": "supermercado",
+      "meaning": "supermarket",
+      "pronunciation": "soo-pehr-mehr-KAH-doh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Compro comida en el supermercado."
+      ]
+    },
+    {
+      "word": "banco",
+      "meaning": "bank",
+      "pronunciation": "BAHN-koh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Voy al banco."
+      ]
+    },
+    {
+      "word": "farmacia",
+      "meaning": "pharmacy",
+      "pronunciation": "fahr-MAH-syah",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Necesito ir a la farmacia."
+      ]
+    },
+    {
+      "word": "parque",
+      "meaning": "park",
+      "pronunciation": "PAHR-keh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Paseo por el parque."
+      ]
+    },
+    {
+      "word": "playa",
+      "meaning": "beach",
+      "pronunciation": "PLAH-yah",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Vamos a la playa."
+      ]
+    },
+    {
+      "word": "biblioteca",
+      "meaning": "library",
+      "pronunciation": "bee-blee-oh-TEH-kah",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Leo en la biblioteca."
+      ]
+    },
+    {
+      "word": "museo",
+      "meaning": "museum",
+      "pronunciation": "moo-SEH-oh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Visito el museo."
+      ]
+    },
+    {
+      "word": "libro",
+      "meaning": "book",
+      "pronunciation": "LEE-broh",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Leo un libro."
+      ]
+    },
+    {
+      "word": "mesa",
+      "meaning": "table",
+      "pronunciation": "MEH-sah",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "La mesa es de madera."
+      ]
+    },
+    {
+      "word": "silla",
+      "meaning": "chair",
+      "pronunciation": "SEE-yah",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Una silla cómoda."
+      ]
+    },
+    {
+      "word": "teléfono",
+      "meaning": "phone",
+      "pronunciation": "teh-LEH-foh-noh",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Mi teléfono suena."
+      ]
+    },
+    {
+      "word": "computadora",
+      "meaning": "computer",
+      "pronunciation": "kohm-poo-tah-DOH-rah",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Uso la computadora."
+      ]
+    },
+    {
+      "word": "llave",
+      "meaning": "key",
+      "pronunciation": "YAH-veh",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Tengo la llave."
+      ]
+    },
+    {
+      "word": "puerta",
+      "meaning": "door",
+      "pronunciation": "PWEHR-tah",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Abre la puerta."
+      ]
+    },
+    {
+      "word": "ventana",
+      "meaning": "window",
+      "pronunciation": "vehn-TAH-nah",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Mira por la ventana."
+      ]
+    },
+    {
+      "word": "reloj",
+      "meaning": "clock/watch",
+      "pronunciation": "rreh-LOH",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "¿Qué hora es en tu reloj?"
+      ]
+    },
+    {
+      "word": "dinero",
+      "meaning": "money",
+      "pronunciation": "dee-NEH-roh",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Necesito dinero."
+      ]
+    },
+    {
+      "word": "familia",
+      "meaning": "family",
+      "pronunciation": "fah-MEE-lyah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Mi familia es grande."
+      ]
+    },
+    {
+      "word": "amigo",
+      "meaning": "friend",
+      "pronunciation": "ah-MEE-goh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Mi mejor amigo."
+      ]
+    },
+    {
+      "word": "hombre",
+      "meaning": "man",
+      "pronunciation": "OHM-breh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Un hombre alto."
+      ]
+    },
+    {
+      "word": "mujer",
+      "meaning": "woman",
+      "pronunciation": "moo-HEHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Una mujer hermosa."
+      ]
+    },
+    {
+      "word": "niño",
+      "meaning": "child (boy)",
+      "pronunciation": "NEE-nyoh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El niño juega."
+      ]
+    },
+    {
+      "word": "niña",
+      "meaning": "child (girl)",
+      "pronunciation": "NEE-nyah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La niña canta."
+      ]
+    },
+    {
+      "word": "profesor",
+      "meaning": "teacher (male)",
+      "pronunciation": "proh-feh-SOHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El profesor enseña."
+      ]
+    },
+    {
+      "word": "profesora",
+      "meaning": "teacher (female)",
+      "pronunciation": "proh-feh-SOH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La profesora explica."
+      ]
+    },
+    {
+      "word": "estudiante",
+      "meaning": "student",
+      "pronunciation": "es-too-DYAHN-teh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Soy estudiante."
+      ]
+    },
+    {
+      "word": "doctor",
+      "meaning": "doctor (male)",
+      "pronunciation": "dohk-TOHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El doctor ayuda."
+      ]
+    },
+    {
+      "word": "doctora",
+      "meaning": "doctor (female)",
+      "pronunciation": "dohk-TOH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La doctora examina."
+      ]
+    },
+    {
+      "word": "ingeniero",
+      "meaning": "engineer (male)",
+      "pronunciation": "een-heh-NYEH-roh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Él es ingeniero."
+      ]
+    },
+    {
+      "word": "ingeniera",
+      "meaning": "engineer (female)",
+      "pronunciation": "een-heh-NYEH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Ella es ingeniera."
+      ]
+    },
+    {
+      "word": "artista",
+      "meaning": "artist",
+      "pronunciation": "ahr-TEES-tah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Soy artista."
+      ]
+    },
+    {
+      "word": "cocinero",
+      "meaning": "cook (male)",
+      "pronunciation": "koh-see-NEH-roh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El cocinero prepara la comida."
+      ]
+    },
+    {
+      "word": "cocinera",
+      "meaning": "cook (female)",
+      "pronunciation": "koh-see-NEH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La cocinera es excelente."
+      ]
+    },
+    {
+      "word": "camarero",
+      "meaning": "waiter",
+      "pronunciation": "kah-mah-REH-roh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El camarero trae la cuenta."
+      ]
+    },
+    {
+      "word": "camarera",
+      "meaning": "waitress",
+      "pronunciation": "kah-mah-REH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La camarera es muy amable."
+      ]
+    },
+    {
+      "word": "policía",
+      "meaning": "police officer",
+      "pronunciation": "poh-lee-SEE-ah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El policía ayuda a la gente."
+      ]
+    },
+    {
+      "word": "bombero",
+      "meaning": "firefighter",
+      "pronunciation": "bohm-BEH-roh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El bombero apaga el fuego."
+      ]
+    },
+    {
+      "word": "piloto",
+      "meaning": "pilot",
+      "pronunciation": "pee-LOH-toh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El piloto vuela el avión."
+      ]
+    },
+    {
+      "word": "cantante",
+      "meaning": "singer",
+      "pronunciation": "kahn-TAHN-teh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Ella es una cantante famosa."
+      ]
+    },
+    {
+      "word": "actor",
+      "meaning": "actor",
+      "pronunciation": "ahk-TOHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Él es un buen actor."
+      ]
+    },
+    {
+      "word": "actriz",
+      "meaning": "actress",
+      "pronunciation": "ahk-TREES",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Ella es una actriz talentosa."
+      ]
+    },
+    {
+      "word": "escritor",
+      "meaning": "writer (male)",
+      "pronunciation": "es-kree-TOHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El escritor publica un libro."
+      ]
+    },
+    {
+      "word": "escritora",
+      "meaning": "writer (female)",
+      "pronunciation": "es-kree-TOH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La escritora gana un premio."
+      ]
+    },
+    {
+      "word": "periodista",
+      "meaning": "journalist",
+      "pronunciation": "peh-ryoh-DEES-tah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El periodista escribe noticias."
+      ]
+    },
+    {
+      "word": "abogado",
+      "meaning": "lawyer (male)",
+      "pronunciation": "ah-boh-GAH-doh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El abogado defiende a su cliente."
+      ]
+    },
+    {
+      "word": "abogada",
+      "meaning": "lawyer (female)",
+      "pronunciation": "ah-boh-GAH-dah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La abogada es muy inteligente."
+      ]
+    },
+    {
+      "word": "deportista",
+      "meaning": "athlete",
+      "pronunciation": "deh-pohr-TEES-tah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El deportista entrena duro."
+      ]
+    },
+    {
+      "word": "médico",
+      "meaning": "doctor (male)",
+      "pronunciation": "MEH-dee-koh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El médico examina al paciente."
+      ]
+    },
+    {
+      "word": "médica",
+      "meaning": "doctor (female)",
+      "pronunciation": "MEH-dee-kah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La médica es muy buena."
+      ]
+    },
+    {
+      "word": "enfermero",
+      "meaning": "nurse (male)",
+      "pronunciation": "en-fehr-MEH-roh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El enfermero cuida a los enfermos."
+      ]
+    },
+    {
+      "word": "enfermera",
+      "meaning": "nurse (female)",
+      "pronunciation": "en-fehr-MEH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La enfermera es muy dedicada."
+      ]
+    },
+    {
+      "word": "científico",
+      "meaning": "scientist (male)",
+      "pronunciation": "syen-TEE-fee-koh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El científico investiga."
+      ]
+    },
+    {
+      "word": "científica",
+      "meaning": "scientist (female)",
+      "pronunciation": "syen-TEE-fee-kah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La científica hace experimentos."
+      ]
+    },
+    {
+      "word": "diseñador",
+      "meaning": "designer (male)",
+      "pronunciation": "dee-seh-nyah-DOHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El diseñador crea ropa."
+      ]
+    },
+    {
+      "word": "diseñadora",
+      "meaning": "designer (female)",
+      "pronunciation": "dee-seh-nyah-DOH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La diseñadora es muy creativa."
+      ]
+    },
+    {
+      "word": "programador",
+      "meaning": "programmer (male)",
+      "pronunciation": "proh-grah-mah-DOHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El programador escribe código."
+      ]
+    },
+    {
+      "word": "programadora",
+      "meaning": "programmer (female)",
+      "pronunciation": "proh-grah-mah-DOH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La programadora desarrolla software."
+      ]
+    },
+    {
+      "word": "vendedor",
+      "meaning": "salesperson (male)",
+      "pronunciation": "vehn-deh-DOHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "El vendedor atiende a los clientes."
+      ]
+    },
+    {
+      "word": "vendedora",
+      "meaning": "salesperson (female)",
+      "pronunciation": "vehn-deh-DOH-rah",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La vendedora es muy persuasiva."
+      ]
+    }
+  ],
+  "french": [
+    {
+      "word": "bonjour",
+      "meaning": "hello/good morning",
+      "pronunciation": "bon-ZHOOR",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "Bonjour, comment allez-vous?",
+        "Bonjour madame."
+      ]
+    },
+    {
+      "word": "merci",
+      "meaning": "thank you",
+      "pronunciation": "mer-SEE",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Merci beaucoup!",
+        "Merci pour votre aide."
+      ]
+    },
+    {
+      "word": "oui",
+      "meaning": "yes",
+      "pronunciation": "wee",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Oui, je veux."
+      ]
+    },
+    {
+      "word": "non",
+      "meaning": "no",
+      "pronunciation": "noh(n)",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Non, merci."
+      ]
+    },
+    {
+      "word": "s'il vous plaît",
+      "meaning": "please",
+      "pronunciation": "seel voo PLEH",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "S'il vous plaît, aidez-moi."
+      ]
+    },
+    {
+      "word": "excusez-moi",
+      "meaning": "excuse me",
+      "pronunciation": "ex-koo-ZAY mwah",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Excusez-moi, où est la gare?"
+      ]
+    },
+    {
+      "word": "pardon",
+      "meaning": "sorry",
+      "pronunciation": "par-DOH(n)",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Pardon, je n'ai pas compris."
+      ]
+    },
+    {
+      "word": "comment",
+      "meaning": "how",
+      "pronunciation": "koh-MAH(n)",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Comment allez-vous?"
+      ]
+    },
+    {
+      "word": "pourquoi",
+      "meaning": "why",
+      "pronunciation": "poor-KWAH",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Pourquoi pas?"
+      ]
+    },
+    {
+      "word": "où",
+      "meaning": "where",
+      "pronunciation": "oo",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Où est la salle de bain?"
+      ]
+    },
+    {
+      "word": "quand",
+      "meaning": "when",
+      "pronunciation": "kah(n)",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Quand partez-vous?"
+      ]
+    },
+    {
+      "word": "qui",
+      "meaning": "who",
+      "pronunciation": "kee",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Qui est là?"
+      ]
+    },
+    {
+      "word": "combien",
+      "meaning": "how much/many",
+      "pronunciation": "koh(m)-BYEH(n)",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Combien ça coûte?"
+      ]
+    },
+    {
+      "word": "je",
+      "meaning": "I",
+      "pronunciation": "zhuh",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Je suis français."
+      ]
+    },
+    {
+      "word": "tu",
+      "meaning": "you (informal)",
+      "pronunciation": "too",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Tu es belle."
+      ]
+    },
+    {
+      "word": "il/elle",
+      "meaning": "he/she",
+      "pronunciation": "eel/el",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Il est grand."
+      ]
+    },
+    {
+      "word": "nous",
+      "meaning": "we",
+      "pronunciation": "noo",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Nous mangeons."
+      ]
+    },
+    {
+      "word": "vous",
+      "meaning": "you (formal/plural)",
+      "pronunciation": "voo",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Vous parlez français."
+      ]
+    },
+    {
+      "word": "ils/elles",
+      "meaning": "they (masc/fem)",
+      "pronunciation": "eel/el",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Ils sont ici."
+      ]
+    },
+    {
+      "word": "un",
+      "meaning": "one",
+      "pronunciation": "uh(n)",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Un livre."
+      ]
+    },
+    {
+      "word": "deux",
+      "meaning": "two",
+      "pronunciation": "duh",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Deux pommes."
+      ]
+    },
+    {
+      "word": "trois",
+      "meaning": "three",
+      "pronunciation": "trwah",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Trois chats."
+      ]
+    },
+    {
+      "word": "quatre",
+      "meaning": "four",
+      "pronunciation": "katr",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Quatre voitures."
+      ]
+    },
+    {
+      "word": "cinq",
+      "meaning": "five",
+      "pronunciation": "sa(n)k",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Cinq doigts."
+      ]
+    },
+    {
+      "word": "six",
+      "meaning": "six",
+      "pronunciation": "sees",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Six chaises."
+      ]
+    },
+    {
+      "word": "sept",
+      "meaning": "seven",
+      "pronunciation": "set",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Sept jours."
+      ]
+    },
+    {
+      "word": "huit",
+      "meaning": "eight",
+      "pronunciation": "weet",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Huit heures."
+      ]
+    },
+    {
+      "word": "neuf",
+      "meaning": "nine",
+      "pronunciation": "nuhf",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Neuf oiseaux."
+      ]
+    },
+    {
+      "word": "dix",
+      "meaning": "ten",
+      "pronunciation": "dees",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Dix minutes."
+      ]
+    },
+    {
+      "word": "jour",
+      "meaning": "day",
+      "pronunciation": "zhoor",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Aujourd'hui est un bon jour."
+      ]
+    },
+    {
+      "word": "nuit",
+      "meaning": "night",
+      "pronunciation": "nwee",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Bonne nuit."
+      ]
+    },
+    {
+      "word": "matin",
+      "meaning": "morning",
+      "pronunciation": "mah-TA(n)",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Demain matin."
+      ]
+    },
+    {
+      "word": "soir",
+      "meaning": "evening",
+      "pronunciation": "swahr",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Ce soir."
+      ]
+    },
+    {
+      "word": "année",
+      "meaning": "year",
+      "pronunciation": "ah-NAY",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Une nouvelle année."
+      ]
+    },
+    {
+      "word": "eau",
+      "meaning": "water",
+      "pronunciation": "oh",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Je veux de l'eau."
+      ]
+    },
+    {
+      "word": "café",
+      "meaning": "coffee",
+      "pronunciation": "ka-FAY",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Un café, s'il vous plaît."
+      ]
+    },
+    {
+      "word": "thé",
+      "meaning": "tea",
+      "pronunciation": "tay",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Du thé au lait."
+      ]
+    },
+    {
+      "word": "lait",
+      "meaning": "milk",
+      "pronunciation": "lay",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Un verre de lait."
+      ]
+    },
+    {
+      "word": "pain",
+      "meaning": "bread",
+      "pronunciation": "pa(n)",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Du pain et du fromage."
+      ]
+    },
+    {
+      "word": "fromage",
+      "meaning": "cheese",
+      "pronunciation": "froh-MAHZH",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "J'aime le fromage."
+      ]
+    },
+    {
+      "word": "œuf",
+      "meaning": "egg",
+      "pronunciation": "uhf",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Un œuf à la coque."
+      ]
+    },
+    {
+      "word": "voiture",
+      "meaning": "car",
+      "pronunciation": "vwa-TYOOR",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Ma voiture est rouge."
+      ]
+    },
+    {
+      "word": "bus",
+      "meaning": "bus",
+      "pronunciation": "boos",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Prendre le bus."
+      ]
+    },
+    {
+      "word": "train",
+      "meaning": "train",
+      "pronunciation": "tra(n)",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Voyager en train."
+      ]
+    },
+    {
+      "word": "avion",
+      "meaning": "airplane",
+      "pronunciation": "ah-VYOH(n)",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Aller en avion."
+      ]
+    },
+    {
+      "word": "taxi",
+      "meaning": "taxi",
+      "pronunciation": "tak-SEE",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Appeler un taxi."
+      ]
+    },
+    {
+      "word": "métro",
+      "meaning": "metro/subway",
+      "pronunciation": "MAY-troh",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Prendre le métro."
+      ]
+    },
+    {
+      "word": "chemise",
+      "meaning": "shirt",
+      "pronunciation": "shuh-MEEZ",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Une chemise bleue."
+      ]
+    },
+    {
+      "word": "pantalon",
+      "meaning": "pants",
+      "pronunciation": "pa(n)-tah-LOH(n)",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Un pantalon noir."
+      ]
+    },
+    {
+      "word": "chaussures",
+      "meaning": "shoes",
+      "pronunciation": "shoh-SYOOR",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "De nouvelles chaussures."
+      ]
+    },
+    {
+      "word": "chapeau",
+      "meaning": "hat",
+      "pronunciation": "shah-POH",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Un chapeau de laine."
+      ]
+    },
+    {
+      "word": "écharpe",
+      "meaning": "scarf",
+      "pronunciation": "ay-SHARP",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Une écharpe rouge."
+      ]
+    },
+    {
+      "word": "lunettes",
+      "meaning": "glasses",
+      "pronunciation": "loo-NET",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Mes lunettes."
+      ]
+    },
+    {
+      "word": "sac",
+      "meaning": "bag",
+      "pronunciation": "sak",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Un grand sac."
+      ]
+    },
+    {
+      "word": "heureux",
+      "meaning": "happy",
+      "pronunciation": "uh-RUH",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Je suis heureux."
+      ]
+    },
+    {
+      "word": "triste",
+      "meaning": "sad",
+      "pronunciation": "treest",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Elle est triste."
+      ]
+    },
+    {
+      "word": "en colère",
+      "meaning": "angry",
+      "pronunciation": "a(n) koh-LER",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Il est en colère."
+      ]
+    },
+    {
+      "word": "fatigué",
+      "meaning": "tired",
+      "pronunciation": "fah-tee-GAY",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Je suis fatigué."
+      ]
+    },
+    {
+      "word": "nerveux",
+      "meaning": "nervous",
+      "pronunciation": "ner-VUH",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Je suis nerveux."
+      ]
+    },
+    {
+      "word": "content",
+      "meaning": "content",
+      "pronunciation": "koh(n)-TAH(n)",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Je suis content."
+      ]
+    },
+    {
+      "word": "effrayé",
+      "meaning": "scared",
+      "pronunciation": "eh-fray-YAY",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Je suis effrayé."
+      ]
+    },
+    {
+      "word": "amoureux",
+      "meaning": "in love",
+      "pronunciation": "ah-moo-RUH",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Je suis amoureux."
+      ]
+    },
+    {
+      "word": "inquiet",
+      "meaning": "worried",
+      "pronunciation": "a(n)-KYEH",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Je suis inquiet."
+      ]
+    },
+    {
+      "word": "excité",
+      "meaning": "excited",
+      "pronunciation": "ek-see-TAY",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Je suis excité."
+      ]
+    },
+    {
+      "word": "maison",
+      "meaning": "house",
+      "pronunciation": "may-ZOH(n)",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ma maison est grande."
+      ]
+    },
+    {
+      "word": "rue",
+      "meaning": "street",
+      "pronunciation": "roo",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "La rue est longue."
+      ]
+    },
+    {
+      "word": "ville",
+      "meaning": "city",
+      "pronunciation": "veel",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "J'habite en ville."
+      ]
+    },
+    {
+      "word": "pays",
+      "meaning": "country",
+      "pronunciation": "pay-EE",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Mon pays est beau."
+      ]
+    },
+    {
+      "word": "monde",
+      "meaning": "world",
+      "pronunciation": "moh(n)d",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Voyager dans le monde."
+      ]
+    },
+    {
+      "word": "école",
+      "meaning": "school",
+      "pronunciation": "ay-KOL",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Je vais à l'école."
+      ]
+    },
+    {
+      "word": "hôpital",
+      "meaning": "hospital",
+      "pronunciation": "oh-pee-TAL",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "J'ai besoin d'aller à l'hôpital."
+      ]
+    },
+    {
+      "word": "restaurant",
+      "meaning": "restaurant",
+      "pronunciation": "res-toh-RAH(n)",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Nous mangeons au restaurant."
+      ]
+    },
+    {
+      "word": "supermarché",
+      "meaning": "supermarket",
+      "pronunciation": "soo-per-mar-SHAY",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "J'achète de la nourriture au supermarché."
+      ]
+    },
+    {
+      "word": "banque",
+      "meaning": "bank",
+      "pronunciation": "bah(n)k",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Je vais à la banque."
+      ]
+    },
+    {
+      "word": "pharmacie",
+      "meaning": "pharmacy",
+      "pronunciation": "far-mah-SEE",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "J'ai besoin d'aller à la pharmacie."
+      ]
+    },
+    {
+      "word": "parc",
+      "meaning": "park",
+      "pronunciation": "park",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Je me promène au parc."
+      ]
+    },
+    {
+      "word": "plage",
+      "meaning": "beach",
+      "pronunciation": "plahzh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Nous allons à la plage."
+      ]
+    },
+    {
+      "word": "bibliothèque",
+      "meaning": "library",
+      "pronunciation": "bee-blee-oh-TEK",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Je lis à la bibliothèque."
+      ]
+    },
+    {
+      "word": "musée",
+      "meaning": "museum",
+      "pronunciation": "myoo-ZAY",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Je visite le musée."
+      ]
+    },
+    {
+      "word": "livre",
+      "meaning": "book",
+      "pronunciation": "leevr",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Je lis un livre."
+      ]
+    },
+    {
+      "word": "table",
+      "meaning": "table",
+      "pronunciation": "tahbl",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "La table est en bois."
+      ]
+    },
+    {
+      "word": "chaise",
+      "meaning": "chair",
+      "pronunciation": "shez",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Une chaise confortable."
+      ]
+    },
+    {
+      "word": "téléphone",
+      "meaning": "phone",
+      "pronunciation": "tay-lay-FOHN",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Mon téléphone sonne."
+      ]
+    },
+    {
+      "word": "ordinateur",
+      "meaning": "computer",
+      "pronunciation": "or-dee-nah-TUHR",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "J'utilise l'ordinateur."
+      ]
+    },
+    {
+      "word": "clé",
+      "meaning": "key",
+      "pronunciation": "klay",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "J'ai la clé."
+      ]
+    },
+    {
+      "word": "porte",
+      "meaning": "door",
+      "pronunciation": "port",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Ouvre la porte."
+      ]
+    },
+    {
+      "word": "fenêtre",
+      "meaning": "window",
+      "pronunciation": "fuh-NETR",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Regarde par la fenêtre."
+      ]
+    },
+    {
+      "word": "horloge",
+      "meaning": "clock",
+      "pronunciation": "or-LOHZH",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Quelle heure est-il à ton horloge?"
+      ]
+    },
+    {
+      "word": "argent",
+      "meaning": "money",
+      "pronunciation": "ar-ZHAH(n)",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "J'ai besoin d'argent."
+      ]
+    },
+    {
+      "word": "famille",
+      "meaning": "family",
+      "pronunciation": "fah-MEE-yuh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Ma famille est grande."
+      ]
+    },
+    {
+      "word": "ami",
+      "meaning": "friend",
+      "pronunciation": "ah-MEE",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Mon meilleur ami."
+      ]
+    },
+    {
+      "word": "homme",
+      "meaning": "man",
+      "pronunciation": "om",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Un homme grand."
+      ]
+    },
+    {
+      "word": "femme",
+      "meaning": "woman",
+      "pronunciation": "fam",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Une belle femme."
+      ]
+    },
+    {
+      "word": "enfant",
+      "meaning": "child",
+      "pronunciation": "a(n)-FAH(n)",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "L'enfant joue."
+      ]
+    },
+    {
+      "word": "professeur",
+      "meaning": "teacher",
+      "pronunciation": "proh-feh-SUHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le professeur enseigne."
+      ]
+    },
+    {
+      "word": "étudiant",
+      "meaning": "student",
+      "pronunciation": "ay-tyoo-DYAH(n)",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Je suis étudiant."
+      ]
+    },
+    {
+      "word": "docteur",
+      "meaning": "doctor",
+      "pronunciation": "dok-TUHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le docteur aide."
+      ]
+    },
+    {
+      "word": "ingénieur",
+      "meaning": "engineer",
+      "pronunciation": "a(n)-zheh-NYUHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Il est ingénieur."
+      ]
+    },
+    {
+      "word": "artiste",
+      "meaning": "artist",
+      "pronunciation": "ar-TEEST",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Elle est artiste."
+      ]
+    },
+    {
+      "word": "cuisinier",
+      "meaning": "cook (male)",
+      "pronunciation": "kwee-zee-NYAY",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le cuisinier prépare le repas."
+      ]
+    },
+    {
+      "word": "cuisinière",
+      "meaning": "cook (female)",
+      "pronunciation": "kwee-zee-NYAIR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La cuisinière est excellente."
+      ]
+    },
+    {
+      "word": "serveur",
+      "meaning": "waiter",
+      "pronunciation": "ser-VUHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le serveur apporte l'addition."
+      ]
+    },
+    {
+      "word": "serveuse",
+      "meaning": "waitress",
+      "pronunciation": "ser-VUHZ",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La serveuse est très gentille."
+      ]
+    },
+    {
+      "word": "policier",
+      "meaning": "police officer (male)",
+      "pronunciation": "poh-lee-SYAY",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le policier aide les gens."
+      ]
+    },
+    {
+      "word": "policière",
+      "meaning": "police officer (female)",
+      "pronunciation": "poh-lee-SYAIR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La policière est courageuse."
+      ]
+    },
+    {
+      "word": "pompier",
+      "meaning": "firefighter",
+      "pronunciation": "poh(n)-PYAY",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le pompier éteint le feu."
+      ]
+    },
+    {
+      "word": "pilote",
+      "meaning": "pilot",
+      "pronunciation": "pee-LOT",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le pilote vole l'avion."
+      ]
+    },
+    {
+      "word": "chanteur",
+      "meaning": "singer (male)",
+      "pronunciation": "shah(n)-TUHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Il est un chanteur célèbre."
+      ]
+    },
+    {
+      "word": "chanteuse",
+      "meaning": "singer (female)",
+      "pronunciation": "shah(n)-TUHZ",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Elle est une chanteuse talentueuse."
+      ]
+    },
+    {
+      "word": "acteur",
+      "meaning": "actor",
+      "pronunciation": "ak-TUHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Il est un bon acteur."
+      ]
+    },
+    {
+      "word": "actrice",
+      "meaning": "actress",
+      "pronunciation": "ak-TREES",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Elle est une actrice formidable."
+      ]
+    },
+    {
+      "word": "écrivain",
+      "meaning": "writer",
+      "pronunciation": "ay-kree-VA(n)",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "L'écrivain publie un livre."
+      ]
+    },
+    {
+      "word": "journaliste",
+      "meaning": "journalist",
+      "pronunciation": "zhoor-nah-LEEST",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le journaliste écrit des nouvelles."
+      ]
+    },
+    {
+      "word": "avocat",
+      "meaning": "lawyer (male)",
+      "pronunciation": "ah-voh-KAH",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "L'avocat défend son client."
+      ]
+    },
+    {
+      "word": "avocate",
+      "meaning": "lawyer (female)",
+      "pronunciation": "ah-voh-KAT",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "L'avocate est très intelligente."
+      ]
+    },
+    {
+      "word": "sportif",
+      "meaning": "athlete (male)",
+      "pronunciation": "spor-TEEF",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le sportif s'entraîne dur."
+      ]
+    },
+    {
+      "word": "sportive",
+      "meaning": "athlete (female)",
+      "pronunciation": "spor-TEEV",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La sportive est très rapide."
+      ]
+    },
+    {
+      "word": "médecin",
+      "meaning": "doctor",
+      "pronunciation": "mayd-SA(n)",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le médecin examine le patient."
+      ]
+    },
+    {
+      "word": "infirmier",
+      "meaning": "nurse (male)",
+      "pronunciation": "a(n)-feer-MYAY",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "L'infirmier prend soin des malades."
+      ]
+    },
+    {
+      "word": "infirmière",
+      "meaning": "nurse (female)",
+      "pronunciation": "a(n)-feer-MYAIR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "L'infirmière est très dévouée."
+      ]
+    },
+    {
+      "word": "scientifique",
+      "meaning": "scientist",
+      "pronunciation": "syah(n)-tee-FEEK",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le scientifique fait des recherches."
+      ]
+    },
+    {
+      "word": "designer",
+      "meaning": "designer",
+      "pronunciation": "dee-ZAY-ner",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le designer crée des vêtements."
+      ]
+    },
+    {
+      "word": "programmeur",
+      "meaning": "programmer (male)",
+      "pronunciation": "proh-grah-MUHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le programmeur écrit du code."
+      ]
+    },
+    {
+      "word": "programmeuse",
+      "meaning": "programmer (female)",
+      "pronunciation": "proh-grah-MUHZ",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La programmeuse développe des logiciels."
+      ]
+    },
+    {
+      "word": "vendeur",
+      "meaning": "salesperson (male)",
+      "pronunciation": "vah(n)-DUHR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Le vendeur sert les clients."
+      ]
+    },
+    {
+      "word": "vendeuse",
+      "meaning": "salesperson (female)",
+      "pronunciation": "vah(n)-DUHZ",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "La vendeuse est très persuasive."
+      ]
+    }
+  ],
+  "german": [
+    {
+      "word": "hallo",
+      "meaning": "hello",
+      "pronunciation": "HAH-loh",
+      "category": "greetings",
+      "difficulty": 1,
+      "examples": [
+        "Hallo, wie geht es dir?",
+        "Hallo Herr Schmidt."
+      ]
+    },
+    {
+      "word": "danke",
+      "meaning": "thank you",
+      "pronunciation": "DAHN-kuh",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Danke schön!",
+        "Vielen Dank für Ihre Hilfe."
+      ]
+    },
+    {
+      "word": "ja",
+      "meaning": "yes",
+      "pronunciation": "yah",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Ja, ich will."
+      ]
+    },
+    {
+      "word": "nein",
+      "meaning": "no",
+      "pronunciation": "nayn",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Nein, danke."
+      ]
+    },
+    {
+      "word": "bitte",
+      "meaning": "please/you're welcome",
+      "pronunciation": "BIT-tuh",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Bitte helfen Sie mir."
+      ]
+    },
+    {
+      "word": "entschuldigung",
+      "meaning": "excuse me/sorry",
+      "pronunciation": "ent-SHOOL-dee-goong",
+      "category": "politeness",
+      "difficulty": 1,
+      "examples": [
+        "Entschuldigung, wo ist der Bahnhof?"
+      ]
+    },
+    {
+      "word": "wie",
+      "meaning": "how",
+      "pronunciation": "vee",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Wie geht es Ihnen?"
+      ]
+    },
+    {
+      "word": "warum",
+      "meaning": "why",
+      "pronunciation": "vah-ROOM",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Warum nicht?"
+      ]
+    },
+    {
+      "word": "wo",
+      "meaning": "where",
+      "pronunciation": "voh",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Wo ist die Toilette?"
+      ]
+    },
+    {
+      "word": "wann",
+      "meaning": "when",
+      "pronunciation": "vahn",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Wann fahren Sie ab?"
+      ]
+    },
+    {
+      "word": "wer",
+      "meaning": "who",
+      "pronunciation": "vehr",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Wer ist da?"
+      ]
+    },
+    {
+      "word": "was",
+      "meaning": "what",
+      "pronunciation": "vahs",
+      "category": "questions",
+      "difficulty": 1,
+      "examples": [
+        "Was ist das?"
+      ]
+    },
+    {
+      "word": "ich",
+      "meaning": "I",
+      "pronunciation": "ikh",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin Deutscher."
+      ]
+    },
+    {
+      "word": "du",
+      "meaning": "you (informal)",
+      "pronunciation": "doo",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Du bist schön."
+      ]
+    },
+    {
+      "word": "er/sie/es",
+      "meaning": "he/she/it",
+      "pronunciation": "ehr/zee/es",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Er ist groß."
+      ]
+    },
+    {
+      "word": "wir",
+      "meaning": "we",
+      "pronunciation": "veer",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Wir essen."
+      ]
+    },
+    {
+      "word": "ihr",
+      "meaning": "you (plural informal)",
+      "pronunciation": "eer",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Ihr sprecht Deutsch."
+      ]
+    },
+    {
+      "word": "sie/Sie",
+      "meaning": "they/you (formal)",
+      "pronunciation": "zee",
+      "category": "pronouns",
+      "difficulty": 1,
+      "examples": [
+        "Sie sind hier."
+      ]
+    },
+    {
+      "word": "eins",
+      "meaning": "one",
+      "pronunciation": "ayns",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Ein Buch."
+      ]
+    },
+    {
+      "word": "zwei",
+      "meaning": "two",
+      "pronunciation": "tsvay",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Zwei Äpfel."
+      ]
+    },
+    {
+      "word": "drei",
+      "meaning": "three",
+      "pronunciation": "dray",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Drei Katzen."
+      ]
+    },
+    {
+      "word": "vier",
+      "meaning": "four",
+      "pronunciation": "feer",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Vier Autos."
+      ]
+    },
+    {
+      "word": "fünf",
+      "meaning": "five",
+      "pronunciation": "foonf",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Fünf Finger."
+      ]
+    },
+    {
+      "word": "sechs",
+      "meaning": "six",
+      "pronunciation": "zeks",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Sechs Stühle."
+      ]
+    },
+    {
+      "word": "sieben",
+      "meaning": "seven",
+      "pronunciation": "ZEE-ben",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Sieben Tage."
+      ]
+    },
+    {
+      "word": "acht",
+      "meaning": "eight",
+      "pronunciation": "ahkht",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Acht Stunden."
+      ]
+    },
+    {
+      "word": "neun",
+      "meaning": "nine",
+      "pronunciation": "noyn",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Neun Vögel."
+      ]
+    },
+    {
+      "word": "zehn",
+      "meaning": "ten",
+      "pronunciation": "tsehn",
+      "category": "numbers",
+      "difficulty": 1,
+      "examples": [
+        "Zehn Minuten."
+      ]
+    },
+    {
+      "word": "Tag",
+      "meaning": "day",
+      "pronunciation": "tahk",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Heute ist ein guter Tag."
+      ]
+    },
+    {
+      "word": "Nacht",
+      "meaning": "night",
+      "pronunciation": "nahkht",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Gute Nacht."
+      ]
+    },
+    {
+      "word": "Morgen",
+      "meaning": "morning",
+      "pronunciation": "MOR-gen",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Morgen früh."
+      ]
+    },
+    {
+      "word": "Abend",
+      "meaning": "evening",
+      "pronunciation": "AH-bent",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Heute Abend."
+      ]
+    },
+    {
+      "word": "Jahr",
+      "meaning": "year",
+      "pronunciation": "yahr",
+      "category": "time",
+      "difficulty": 1,
+      "examples": [
+        "Ein neues Jahr."
+      ]
+    },
+    {
+      "word": "Wasser",
+      "meaning": "water",
+      "pronunciation": "VAH-ser",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Ich möchte Wasser."
+      ]
+    },
+    {
+      "word": "Kaffee",
+      "meaning": "coffee",
+      "pronunciation": "KAH-fay",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Einen Kaffee, bitte."
+      ]
+    },
+    {
+      "word": "Tee",
+      "meaning": "tea",
+      "pronunciation": "tay",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Tee mit Milch."
+      ]
+    },
+    {
+      "word": "Milch",
+      "meaning": "milk",
+      "pronunciation": "milkh",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Ein Glas Milch."
+      ]
+    },
+    {
+      "word": "Brot",
+      "meaning": "bread",
+      "pronunciation": "broht",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Brot und Käse."
+      ]
+    },
+    {
+      "word": "Käse",
+      "meaning": "cheese",
+      "pronunciation": "KAY-zuh",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Ich mag Käse."
+      ]
+    },
+    {
+      "word": "Ei",
+      "meaning": "egg",
+      "pronunciation": "ay",
+      "category": "food",
+      "difficulty": 1,
+      "examples": [
+        "Ein Spiegelei."
+      ]
+    },
+    {
+      "word": "Auto",
+      "meaning": "car",
+      "pronunciation": "OW-toh",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Mein Auto ist rot."
+      ]
+    },
+    {
+      "word": "Bus",
+      "meaning": "bus",
+      "pronunciation": "boos",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Den Bus nehmen."
+      ]
+    },
+    {
+      "word": "Zug",
+      "meaning": "train",
+      "pronunciation": "tsook",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Mit dem Zug reisen."
+      ]
+    },
+    {
+      "word": "Flugzeug",
+      "meaning": "airplane",
+      "pronunciation": "FLOOK-tsoyg",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Mit dem Flugzeug fliegen."
+      ]
+    },
+    {
+      "word": "Taxi",
+      "meaning": "taxi",
+      "pronunciation": "TAHK-see",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Ein Taxi rufen."
+      ]
+    },
+    {
+      "word": "U-Bahn",
+      "meaning": "subway",
+      "pronunciation": "OO-bahn",
+      "category": "travel",
+      "difficulty": 1,
+      "examples": [
+        "Die U-Bahn benutzen."
+      ]
+    },
+    {
+      "word": "Hemd",
+      "meaning": "shirt",
+      "pronunciation": "hemt",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Ein blaues Hemd."
+      ]
+    },
+    {
+      "word": "Hose",
+      "meaning": "pants",
+      "pronunciation": "HOH-zuh",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Schwarze Hose."
+      ]
+    },
+    {
+      "word": "Schuhe",
+      "meaning": "shoes",
+      "pronunciation": "SHOO-uh",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Neue Schuhe."
+      ]
+    },
+    {
+      "word": "Hut",
+      "meaning": "hat",
+      "pronunciation": "hoot",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Ein Wollhut."
+      ]
+    },
+    {
+      "word": "Schal",
+      "meaning": "scarf",
+      "pronunciation": "shahl",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Ein roter Schal."
+      ]
+    },
+    {
+      "word": "Brille",
+      "meaning": "glasses",
+      "pronunciation": "BRIL-luh",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Meine Brille."
+      ]
+    },
+    {
+      "word": "Tasche",
+      "meaning": "bag",
+      "pronunciation": "TAH-shuh",
+      "category": "clothing",
+      "difficulty": 1,
+      "examples": [
+        "Eine große Tasche."
+      ]
+    },
+    {
+      "word": "glücklich",
+      "meaning": "happy",
+      "pronunciation": "GLOOK-likh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin glücklich."
+      ]
+    },
+    {
+      "word": "traurig",
+      "meaning": "sad",
+      "pronunciation": "TROW-rikh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Sie ist traurig."
+      ]
+    },
+    {
+      "word": "wütend",
+      "meaning": "angry",
+      "pronunciation": "VOO-tent",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Er ist wütend."
+      ]
+    },
+    {
+      "word": "müde",
+      "meaning": "tired",
+      "pronunciation": "MOO-duh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin müde."
+      ]
+    },
+    {
+      "word": "nervös",
+      "meaning": "nervous",
+      "pronunciation": "ner-VOHS",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin nervös."
+      ]
+    },
+    {
+      "word": "zufrieden",
+      "meaning": "content",
+      "pronunciation": "tsoo-FREE-den",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin zufrieden."
+      ]
+    },
+    {
+      "word": "ängstlich",
+      "meaning": "scared",
+      "pronunciation": "ENGST-likh",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin ängstlich."
+      ]
+    },
+    {
+      "word": "verliebt",
+      "meaning": "in love",
+      "pronunciation": "fer-LEEPT",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin verliebt."
+      ]
+    },
+    {
+      "word": "besorgt",
+      "meaning": "worried",
+      "pronunciation": "buh-ZORGT",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin besorgt."
+      ]
+    },
+    {
+      "word": "aufgeregt",
+      "meaning": "excited",
+      "pronunciation": "OWF-guh-raykt",
+      "category": "emotions",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin aufgeregt."
+      ]
+    },
+    {
+      "word": "Haus",
+      "meaning": "house",
+      "pronunciation": "hows",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Mein Haus ist groß."
+      ]
+    },
+    {
+      "word": "Straße",
+      "meaning": "street",
+      "pronunciation": "SHTRAH-suh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Die Straße ist lang."
+      ]
+    },
+    {
+      "word": "Stadt",
+      "meaning": "city",
+      "pronunciation": "staht",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ich lebe in der Stadt."
+      ]
+    },
+    {
+      "word": "Land",
+      "meaning": "country",
+      "pronunciation": "lahnt",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Mein Land ist schön."
+      ]
+    },
+    {
+      "word": "Welt",
+      "meaning": "world",
+      "pronunciation": "velt",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Reisen um die Welt."
+      ]
+    },
+    {
+      "word": "Schule",
+      "meaning": "school",
+      "pronunciation": "SHOO-luh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ich gehe zur Schule."
+      ]
+    },
+    {
+      "word": "Krankenhaus",
+      "meaning": "hospital",
+      "pronunciation": "KRAHN-ken-hows",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ich muss ins Krankenhaus."
+      ]
+    },
+    {
+      "word": "Restaurant",
+      "meaning": "restaurant",
+      "pronunciation": "res-toh-RAH(n)",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Wir essen im Restaurant."
+      ]
+    },
+    {
+      "word": "Supermarkt",
+      "meaning": "supermarket",
+      "pronunciation": "ZOO-per-markt",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ich kaufe Essen im Supermarkt."
+      ]
+    },
+    {
+      "word": "Bank",
+      "meaning": "bank",
+      "pronunciation": "bahngk",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ich gehe zur Bank."
+      ]
+    },
+    {
+      "word": "Apotheke",
+      "meaning": "pharmacy",
+      "pronunciation": "ah-poh-TEE-kuh",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ich muss zur Apotheke."
+      ]
+    },
+    {
+      "word": "Park",
+      "meaning": "park",
+      "pronunciation": "park",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ich spaziere im Park."
+      ]
+    },
+    {
+      "word": "Strand",
+      "meaning": "beach",
+      "pronunciation": "shtrahnt",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Wir fahren zum Strand."
+      ]
+    },
+    {
+      "word": "Bibliothek",
+      "meaning": "library",
+      "pronunciation": "bee-blee-oh-TEK",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ich lese in der Bibliothek."
+      ]
+    },
+    {
+      "word": "Museum",
+      "meaning": "museum",
+      "pronunciation": "moo-ZAY-oom",
+      "category": "places",
+      "difficulty": 1,
+      "examples": [
+        "Ich besuche das Museum."
+      ]
+    },
+    {
+      "word": "Buch",
+      "meaning": "book",
+      "pronunciation": "bookh",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Ich lese ein Buch."
+      ]
+    },
+    {
+      "word": "Tisch",
+      "meaning": "table",
+      "pronunciation": "tish",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Der Tisch ist aus Holz."
+      ]
+    },
+    {
+      "word": "Stuhl",
+      "meaning": "chair",
+      "pronunciation": "shtool",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Ein bequemer Stuhl."
+      ]
+    },
+    {
+      "word": "Telefon",
+      "meaning": "phone",
+      "pronunciation": "TEH-leh-fohn",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Mein Telefon klingelt."
+      ]
+    },
+    {
+      "word": "Computer",
+      "meaning": "computer",
+      "pronunciation": "kom-PYOO-ter",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Ich benutze den Computer."
+      ]
+    },
+    {
+      "word": "Schlüssel",
+      "meaning": "key",
+      "pronunciation": "SHLOO-sel",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Ich habe den Schlüssel."
+      ]
+    },
+    {
+      "word": "Tür",
+      "meaning": "door",
+      "pronunciation": "toor",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Öffne die Tür."
+      ]
+    },
+    {
+      "word": "Fenster",
+      "meaning": "window",
+      "pronunciation": "FEN-ster",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Schau aus dem Fenster."
+      ]
+    },
+    {
+      "word": "Uhr",
+      "meaning": "clock/watch",
+      "pronunciation": "oor",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Wie spät ist es auf deiner Uhr?"
+      ]
+    },
+    {
+      "word": "Geld",
+      "meaning": "money",
+      "pronunciation": "gelt",
+      "category": "objects",
+      "difficulty": 1,
+      "examples": [
+        "Ich brauche Geld."
+      ]
+    },
+    {
+      "word": "Familie",
+      "meaning": "family",
+      "pronunciation": "fah-MEE-lee",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Meine Familie ist groß."
+      ]
+    },
+    {
+      "word": "Freund",
+      "meaning": "friend",
+      "pronunciation": "froynt",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Mein bester Freund."
+      ]
+    },
+    {
+      "word": "Mann",
+      "meaning": "man",
+      "pronunciation": "mahn",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Ein großer Mann."
+      ]
+    },
+    {
+      "word": "Frau",
+      "meaning": "woman",
+      "pronunciation": "frow",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Eine schöne Frau."
+      ]
+    },
+    {
+      "word": "Kind",
+      "meaning": "child",
+      "pronunciation": "kint",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Das Kind spielt."
+      ]
+    },
+    {
+      "word": "Lehrer",
+      "meaning": "teacher (male)",
+      "pronunciation": "LEH-rer",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Lehrer unterrichtet."
+      ]
+    },
+    {
+      "word": "Lehrerin",
+      "meaning": "teacher (female)",
+      "pronunciation": "LEH-rer-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Lehrerin erklärt."
+      ]
+    },
+    {
+      "word": "Student",
+      "meaning": "student (male)",
+      "pronunciation": "shoo-DENT",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Ich bin Student."
+      ]
+    },
+    {
+      "word": "Studentin",
+      "meaning": "student (female)",
+      "pronunciation": "shoo-DEN-tin",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Sie ist Studentin."
+      ]
+    },
+    {
+      "word": "Arzt",
+      "meaning": "doctor (male)",
+      "pronunciation": "ahrtst",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Arzt hilft."
+      ]
+    },
+    {
+      "word": "Ärztin",
+      "meaning": "doctor (female)",
+      "pronunciation": "AIRT-seen",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Ärztin untersucht den Patienten."
+      ]
+    },
+    {
+      "word": "Ingenieur",
+      "meaning": "engineer (male)",
+      "pronunciation": "in-zheh-NYOOR",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Er ist Ingenieur."
+      ]
+    },
+    {
+      "word": "Ingenieurin",
+      "meaning": "engineer (female)",
+      "pronunciation": "in-zheh-NYOO-rin",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Sie ist Ingenieurin."
+      ]
+    },
+    {
+      "word": "Künstler",
+      "meaning": "artist (male)",
+      "pronunciation": "KOONST-ler",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Künstler malt ein Bild."
+      ]
+    },
+    {
+      "word": "Künstlerin",
+      "meaning": "artist (female)",
+      "pronunciation": "KOONST-ler-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Künstlerin stellt ihre Werke aus."
+      ]
+    },
+    {
+      "word": "Koch",
+      "meaning": "cook (male)",
+      "pronunciation": "kokh",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Koch bereitet das Essen zu."
+      ]
+    },
+    {
+      "word": "Köchin",
+      "meaning": "cook (female)",
+      "pronunciation": "KO-khin",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Köchin kocht sehr gut."
+      ]
+    },
+    {
+      "word": "Kellner",
+      "meaning": "waiter",
+      "pronunciation": "KEL-ner",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Kellner bringt die Rechnung."
+      ]
+    },
+    {
+      "word": "Kellnerin",
+      "meaning": "waitress",
+      "pronunciation": "KEL-ner-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Kellnerin ist sehr freundlich."
+      ]
+    },
+    {
+      "word": "Polizist",
+      "meaning": "police officer (male)",
+      "pronunciation": "poh-lee-TSIST",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Polizist hilft den Leuten."
+      ]
+    },
+    {
+      "word": "Polizistin",
+      "meaning": "police officer (female)",
+      "pronunciation": "poh-lee-TSIS-tin",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Polizistin ist mutig."
+      ]
+    },
+    {
+      "word": "Feuerwehrmann",
+      "meaning": "firefighter (male)",
+      "pronunciation": "FOY-er-vehr-mahn",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Feuerwehrmann löscht das Feuer."
+      ]
+    },
+    {
+      "word": "Feuerwehrfrau",
+      "meaning": "firefighter (female)",
+      "pronunciation": "FOY-er-vehr-frow",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Feuerwehrfrau rettet Leben."
+      ]
+    },
+    {
+      "word": "Pilot",
+      "meaning": "pilot (male)",
+      "pronunciation": "pee-LOT",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Pilot fliegt das Flugzeug."
+      ]
+    },
+    {
+      "word": "Pilotin",
+      "meaning": "pilot (female)",
+      "pronunciation": "pee-LO-tin",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Pilotin landet sicher."
+      ]
+    },
+    {
+      "word": "Sänger",
+      "meaning": "singer (male)",
+      "pronunciation": "ZENG-er",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Er ist ein berühmter Sänger."
+      ]
+    },
+    {
+      "word": "Sängerin",
+      "meaning": "singer (female)",
+      "pronunciation": "ZENG-er-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Sie ist eine talentierte Sängerin."
+      ]
+    },
+    {
+      "word": "Schauspieler",
+      "meaning": "actor (male)",
+      "pronunciation": "SHAU-shpeel-er",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Er ist ein guter Schauspieler."
+      ]
+    },
+    {
+      "word": "Schauspielerin",
+      "meaning": "actress (female)",
+      "pronunciation": "SHAU-shpeel-er-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Sie ist eine großartige Schauspielerin."
+      ]
+    },
+    {
+      "word": "Schriftsteller",
+      "meaning": "writer (male)",
+      "pronunciation": "SHRIFT-shtel-er",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Schriftsteller schreibt ein Buch."
+      ]
+    },
+    {
+      "word": "Schriftstellerin",
+      "meaning": "writer (female)",
+      "pronunciation": "SHRIFT-shtel-er-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Schriftstellerin gewinnt einen Preis."
+      ]
+    },
+    {
+      "word": "Journalist",
+      "meaning": "journalist (male)",
+      "pronunciation": "zhoor-nah-LIST",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Journalist schreibt Nachrichten."
+      ]
+    },
+    {
+      "word": "Journalistin",
+      "meaning": "journalist (female)",
+      "pronunciation": "zhoor-nah-LIS-tin",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Journalistin berichtet live."
+      ]
+    },
+    {
+      "word": "Anwalt",
+      "meaning": "lawyer (male)",
+      "pronunciation": "AHN-valt",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Anwalt verteidigt seinen Klienten."
+      ]
+    },
+    {
+      "word": "Anwältin",
+      "meaning": "lawyer (female)",
+      "pronunciation": "AHN-vel-tin",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Anwältin ist sehr klug."
+      ]
+    },
+    {
+      "word": "Sportler",
+      "meaning": "athlete (male)",
+      "pronunciation": "SHPORT-ler",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Sportler trainiert hart."
+      ]
+    },
+    {
+      "word": "Sportlerin",
+      "meaning": "athlete (female)",
+      "pronunciation": "SHPORT-ler-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Sportlerin ist sehr schnell."
+      ]
+    },
+    {
+      "word": "Krankenpfleger",
+      "meaning": "nurse (male)",
+      "pronunciation": "KRAHN-ken-pfle-ger",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Krankenpfleger kümmert sich um die Patienten."
+      ]
+    },
+    {
+      "word": "Krankenpflegerin",
+      "meaning": "nurse (female)",
+      "pronunciation": "KRAHN-ken-pfle-ger-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Krankenpflegerin ist sehr engagiert."
+      ]
+    },
+    {
+      "word": "Wissenschaftler",
+      "meaning": "scientist (male)",
+      "pronunciation": "VIS-en-shaft-ler",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Wissenschaftler forscht."
+      ]
+    },
+    {
+      "word": "Wissenschaftlerin",
+      "meaning": "scientist (female)",
+      "pronunciation": "VIS-en-shaft-ler-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Wissenschaftlerin macht Experimente."
+      ]
+    },
+    {
+      "word": "Designer",
+      "meaning": "designer (male)",
+      "pronunciation": "dee-ZAY-ner",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Designer entwirft Kleidung."
+      ]
+    },
+    {
+      "word": "Designerin",
+      "meaning": "designer (female)",
+      "pronunciation": "dee-ZAY-ner-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Designerin ist sehr kreativ."
+      ]
+    },
+    {
+      "word": "Programmierer",
+      "meaning": "programmer (male)",
+      "pronunciation": "proh-grah-MEER-er",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Programmierer schreibt Code."
+      ]
+    },
+    {
+      "word": "Programmiererin",
+      "meaning": "programmer (female)",
+      "pronunciation": "proh-grah-MEER-er-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Programmiererin entwickelt Software."
+      ]
+    },
+    {
+      "word": "Verkäufer",
+      "meaning": "salesperson (male)",
+      "pronunciation": "fer-KOY-fer",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Der Verkäufer bedient die Kunden."
+      ]
+    },
+    {
+      "word": "Verkäuferin",
+      "meaning": "salesperson (female)",
+      "pronunciation": "fer-KOY-fer-in",
+      "category": "people",
+      "difficulty": 1,
+      "examples": [
+        "Die Verkäuferin ist sehr überzeugend."
+      ]
+    }
+  ]
+}
+

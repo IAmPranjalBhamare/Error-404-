@@ -1,0 +1,83 @@
+{
+  "languages": [
+    {
+      "id": "spanish",
+      "name": "Spanish",
+      "flag": "🇪🇸",
+      "description": "Beginner Friendly",
+      "difficulty": "easy",
+      "speakers": "500M+",
+      "family": "Romance",
+      "progress": 15
+    },
+    {
+      "id": "french",
+      "name": "French",
+      "flag": "🇫🇷",
+      "description": "Romance Language",
+      "difficulty": "medium",
+      "speakers": "280M+",
+      "family": "Romance",
+      "progress": 8
+    },
+    {
+      "id": "german",
+      "name": "German",
+      "flag": "🇩🇪",
+      "description": "Precision & Logic",
+      "difficulty": "hard",
+      "speakers": "100M+",
+      "family": "Germanic",
+      "progress": 5
+    },
+    {
+      "id": "italian",
+      "name": "Italian",
+      "flag": "🇮🇹",
+      "description": "Melodic & Beautiful",
+      "difficulty": "medium",
+      "speakers": "65M+",
+      "family": "Romance",
+      "progress": 12
+    },
+    {
+      "id": "portuguese",
+      "name": "Portuguese",
+      "flag": "🇵🇹",
+      "description": "Global & Growing",
+      "difficulty": "medium",
+      "speakers": "260M+",
+      "family": "Romance",
+      "progress": 3
+    },
+    {
+      "id": "japanese",
+      "name": "Japanese",
+      "flag": "🇯🇵",
+      "description": "Cultural Journey",
+      "difficulty": "very_hard",
+      "speakers": "125M+",
+      "family": "Japonic",
+      "progress": 7
+    }
+  ],
+  "difficulty_levels": {
+    "easy": {
+      "color": "#4caf50",
+      "description": "Great for beginners"
+    },
+    "medium": {
+      "color": "#ff9800",
+      "description": "Moderate challenge"
+    },
+    "hard": {
+      "color": "#f44336",
+      "description": "Requires dedication"
+    },
+    "very_hard": {
+      "color": "#9c27b0",
+      "description": "Expert level"
+    }
+  }
+}
+

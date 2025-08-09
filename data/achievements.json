@@ -1,0 +1,186 @@
+{
+  "achievements": [
+    {
+      "id": "first-steps",
+      "name": "First Steps",
+      "description": "Complete your first lesson",
+      "icon": "👶",
+      "xp": 10,
+      "category": "learning",
+      "rarity": "common"
+    },
+    {
+      "id": "streak-3",
+      "name": "Getting Started",
+      "description": "3-day learning streak",
+      "icon": "🔥",
+      "xp": 25,
+      "category": "consistency",
+      "rarity": "common"
+    },
+    {
+      "id": "streak-7",
+      "name": "Week Warrior",
+      "description": "7-day learning streak",
+      "icon": "⚡",
+      "xp": 50,
+      "category": "consistency",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "streak-30",
+      "name": "Monthly Master",
+      "description": "30-day learning streak",
+      "icon": "🏆",
+      "xp": 200,
+      "category": "consistency",
+      "rarity": "legendary"
+    },
+    {
+      "id": "vocab-50",
+      "name": "Word Collector",
+      "description": "Learn 50 vocabulary words",
+      "icon": "📚",
+      "xp": 75,
+      "category": "vocabulary",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "vocab-100",
+      "name": "Vocabulary Master",
+      "description": "Learn 100 vocabulary words",
+      "icon": "🎓",
+      "xp": 150,
+      "category": "vocabulary",
+      "rarity": "rare"
+    },
+    {
+      "id": "perfect-lesson",
+      "name": "Perfectionist",
+      "description": "Complete a lesson with 100% accuracy",
+      "icon": "⭐",
+      "xp": 30,
+      "category": "performance",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "speed-demon",
+      "name": "Speed Demon",
+      "description": "Complete 10 questions in under 2 minutes",
+      "icon": "💨",
+      "xp": 40,
+      "category": "performance",
+      "rarity": "rare"
+    },
+    {
+      "id": "multilingual",
+      "name": "Multilingual",
+      "description": "Start learning 3 different languages",
+      "icon": "🌍",
+      "xp": 100,
+      "category": "exploration",
+      "rarity": "rare"
+    },
+    {
+      "id": "night-owl",
+      "name": "Night Owl",
+      "description": "Study after 10 PM",
+      "icon": "🦉",
+      "xp": 20,
+      "category": "special",
+      "rarity": "common"
+    },
+    {
+      "id": "early-bird",
+      "name": "Early Bird",
+      "description": "Study before 7 AM",
+      "icon": "🐦",
+      "xp": 20,
+      "category": "special",
+      "rarity": "common"
+    },
+    {
+      "id": "level-5",
+      "name": "Rising Star",
+      "description": "Reach level 5",
+      "icon": "🌟",
+      "xp": 100,
+      "category": "progression",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "level-10",
+      "name": "Language Expert",
+      "description": "Reach level 10",
+      "icon": "👨‍🎓",
+      "xp": 250,
+      "category": "progression",
+      "rarity": "epic"
+    }
+  ],
+  "categories": {
+    "learning": {
+      "name": "Learning",
+      "color": "#4caf50",
+      "icon": "📚"
+    },
+    "consistency": {
+      "name": "Consistency",
+      "color": "#ff5722",
+      "icon": "🔥"
+    },
+    "vocabulary": {
+      "name": "Vocabulary",
+      "color": "#2196f3",
+      "icon": "📝"
+    },
+    "performance": {
+      "name": "Performance",
+      "color": "#ff9800",
+      "icon": "⚡"
+    },
+    "exploration": {
+      "name": "Exploration",
+      "color": "#9c27b0",
+      "icon": "🌍"
+    },
+    "special": {
+      "name": "Special",
+      "color": "#607d8b",
+      "icon": "✨"
+    },
+    "progression": {
+      "name": "Progression",
+      "color": "#ffc107",
+      "icon": "📈"
+    }
+  },
+  "rarity": {
+    "common": {
+      "name": "Common",
+      "color": "#9e9e9e",
+      "glow": false
+    },
+    "uncommon": {
+      "name": "Uncommon",
+      "color": "#4caf50",
+      "glow": false
+    },
+    "rare": {
+      "name": "Rare",
+      "color": "#2196f3",
+      "glow": true
+    },
+    "epic": {
+      "name": "Epic",
+      "color": "#9c27b0",
+      "glow": true
+    },
+    "legendary": {
+      "name": "Legendary",
+      "color": "#ff9800",
+      "glow": true
+    }
+  }
+}
+

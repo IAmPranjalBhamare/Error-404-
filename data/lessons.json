@@ -1,0 +1,1365 @@
+{
+  "spanish": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Greetings",
+        "description": "Learn essential Spanish greetings and polite expressions",
+        "difficulty": 1,
+        "category": "greetings",
+        "words": [
+          {
+            "word": "hola",
+            "meaning": "hello",
+            "pronunciation": "OH-lah",
+            "examples": ["¡Hola! ¿Cómo estás?", "Hola, me llamo María."]
+          },
+          {
+            "word": "adiós",
+            "meaning": "goodbye",
+            "pronunciation": "ah-dee-OHS",
+            "examples": ["Adiós, nos vemos mañana.", "¡Adiós y buen viaje!"]
+          },
+          {
+            "word": "buenos días",
+            "meaning": "good morning",
+            "pronunciation": "BWEH-nohs DEE-ahs",
+            "examples": ["Buenos días, ¿cómo está?"]
+          },
+          {
+            "word": "buenas tardes",
+            "meaning": "good afternoon",
+            "pronunciation": "BWEH-nahs TAR-dehs",
+            "examples": ["Buenas tardes, señorita."]
+          },
+          {
+            "word": "buenas noches",
+            "meaning": "good night",
+            "pronunciation": "BWEH-nahs NO-chehs",
+            "examples": ["Buenas noches, que descanses."]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Politeness & Basic Conversation",
+        "description": "Master polite expressions and basic conversation starters",
+        "difficulty": 1,
+        "category": "politeness",
+        "words": [
+          {
+            "word": "gracias",
+            "meaning": "thank you",
+            "pronunciation": "GRAH-see-ahs",
+            "examples": ["Gracias por tu ayuda.", "¡Muchas gracias!"]
+          },
+          {
+            "word": "¿cómo estás?",
+            "meaning": "how are you?",
+            "pronunciation": "KOH-moh ehs-TAHS",
+            "examples": ["Hola, ¿cómo estás?"]
+          },
+          {
+            "word": "estoy bien",
+            "meaning": "I'm good",
+            "pronunciation": "ehs-TOY byehn",
+            "examples": ["Estoy bien, gracias."]
+          },
+          {
+            "word": "mucho gusto",
+            "meaning": "nice to meet you",
+            "pronunciation": "MOO-choh GOOS-toh",
+            "examples": ["Mucho gusto en conocerte."]
+          },
+          {
+            "word": "¿cómo te llamas?",
+            "meaning": "what's your name?",
+            "pronunciation": "KOH-moh teh YAH-mahs",
+            "examples": ["¿Hola, cómo te llamas?"]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Numbers 1-10",
+        "description": "Learn to count from one to ten in Spanish",
+        "difficulty": 1,
+        "category": "numbers",
+        "words": [
+          {
+            "word": "uno",
+            "meaning": "one",
+            "pronunciation": "OO-noh",
+            "examples": ["Tengo un libro."]
+          },
+          {
+            "word": "dos",
+            "meaning": "two",
+            "pronunciation": "dohs",
+            "examples": ["Compré dos manzanas."]
+          },
+          {
+            "word": "tres",
+            "meaning": "three",
+            "pronunciation": "trehs",
+            "examples": ["Hay tres gatos."]
+          },
+          {
+            "word": "cuatro",
+            "meaning": "four",
+            "pronunciation": "KWAH-troh",
+            "examples": ["Cuatro amigos."]
+          },
+          {
+            "word": "cinco",
+            "meaning": "five",
+            "pronunciation": "SEEN-koh",
+            "examples": ["Cinco dedos."]
+          },
+          {
+            "word": "seis",
+            "meaning": "six",
+            "pronunciation": "seys",
+            "examples": ["Seis sillas."]
+          },
+          {
+            "word": "siete",
+            "meaning": "seven",
+            "pronunciation": "SYEH-teh",
+            "examples": ["Siete días."]
+          },
+          {
+            "word": "ocho",
+            "meaning": "eight",
+            "pronunciation": "OH-choh",
+            "examples": ["Ocho horas."]
+          },
+          {
+            "word": "nueve",
+            "meaning": "nine",
+            "pronunciation": "NWEH-veh",
+            "examples": ["Nueve pájaros."]
+          },
+          {
+            "word": "diez",
+            "meaning": "ten",
+            "pronunciation": "dyehs",
+            "examples": ["Diez minutos."]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Time & Daily Life",
+        "description": "Express time and talk about daily activities",
+        "difficulty": 1,
+        "category": "time",
+        "words": [
+          {
+            "word": "día",
+            "meaning": "day",
+            "pronunciation": "DEE-ah",
+            "examples": ["Hoy es un buen día."]
+          },
+          {
+            "word": "noche",
+            "meaning": "night",
+            "pronunciation": "NO-cheh",
+            "examples": ["Buenas noches."]
+          },
+          {
+            "word": "mañana",
+            "meaning": "morning",
+            "pronunciation": "mah-NYAH-nah",
+            "examples": ["Mañana por la mañana."]
+          },
+          {
+            "word": "tarde",
+            "meaning": "afternoon",
+            "pronunciation": "TAR-deh",
+            "examples": ["Por la tarde."]
+          },
+          {
+            "word": "fiesta",
+            "meaning": "holiday",
+            "pronunciation": "FYEHS-tah",
+            "examples": ["Vamos de fiesta."]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Food & Drinks",
+        "description": "Learn essential food and drink vocabulary",
+        "difficulty": 1,
+        "category": "food",
+        "words": [
+          {
+            "word": "agua",
+            "meaning": "water",
+            "pronunciation": "AH-gwah",
+            "examples": ["Quiero agua."]
+          },
+          {
+            "word": "café",
+            "meaning": "coffee",
+            "pronunciation": "kah-FEH",
+            "examples": ["Un café, por favor."]
+          },
+          {
+            "word": "té",
+            "meaning": "tea",
+            "pronunciation": "teh",
+            "examples": ["Té con leche."]
+          },
+          {
+            "word": "leche",
+            "meaning": "milk",
+            "pronunciation": "LEH-cheh",
+            "examples": ["Un vaso de leche."]
+          },
+          {
+            "word": "pan",
+            "meaning": "bread",
+            "pronunciation": "pahn",
+            "examples": ["Pan y queso."]
+          },
+          {
+            "word": "queso",
+            "meaning": "cheese",
+            "pronunciation": "KEH-soh",
+            "examples": ["Me gusta el queso."]
+          },
+          {
+            "word": "huevo",
+            "meaning": "egg",
+            "pronunciation": "WEH-voh",
+            "examples": ["Un huevo frito."]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Transportation",
+        "description": "Navigate and talk about different modes of transport",
+        "difficulty": 1,
+        "category": "travel",
+        "words": [
+          {
+            "word": "coche",
+            "meaning": "car",
+            "pronunciation": "KOH-cheh",
+            "examples": ["Mi coche es rojo."]
+          },
+          {
+            "word": "autobús",
+            "meaning": "bus",
+            "pronunciation": "ow-toh-BOOS",
+            "examples": ["Tomar el autobús."]
+          },
+          {
+            "word": "tren",
+            "meaning": "train",
+            "pronunciation": "trehn",
+            "examples": ["Viajar en tren."]
+          },
+          {
+            "word": "avión",
+            "meaning": "airplane",
+            "pronunciation": "ah-BYOHN",
+            "examples": ["Ir en avión."]
+          },
+          {
+            "word": "taxi",
+            "meaning": "taxi",
+            "pronunciation": "TAHK-see",
+            "examples": ["Llamar un taxi."]
+          },
+          {
+            "word": "metro",
+            "meaning": "metro/subway",
+            "pronunciation": "MEH-troh",
+            "examples": ["Usar el metro."]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Clothing & Accessories",
+        "description": "Describe what you're wearing and shopping for clothes",
+        "difficulty": 1,
+        "category": "clothing",
+        "words": [
+          {
+            "word": "camisa",
+            "meaning": "shirt",
+            "pronunciation": "kah-MEE-sah",
+            "examples": ["Una camisa azul."]
+          },
+          {
+            "word": "pantalones",
+            "meaning": "pants",
+            "pronunciation": "pahn-tah-LOH-nehs",
+            "examples": ["Pantalones negros."]
+          },
+          {
+            "word": "zapatos",
+            "meaning": "shoes",
+            "pronunciation": "sah-PAH-tohs",
+            "examples": ["Zapatos nuevos."]
+          },
+          {
+            "word": "gorro",
+            "meaning": "hat",
+            "pronunciation": "GOH-rroh",
+            "examples": ["Un gorro de lana."]
+          },
+          {
+            "word": "bufanda",
+            "meaning": "scarf",
+            "pronunciation": "boo-FAHN-dah",
+            "examples": ["Una bufanda roja."]
+          },
+          {
+            "word": "gafas",
+            "meaning": "glasses",
+            "pronunciation": "GAH-fahs",
+            "examples": ["Mis gafas."]
+          },
+          {
+            "word": "bolsa",
+            "meaning": "bag",
+            "pronunciation": "BOHL-sah",
+            "examples": ["Una bolsa grande."]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Emotions & Feelings",
+        "description": "Express how you feel and understand others' emotions",
+        "difficulty": 1,
+        "category": "emotions",
+        "words": [
+          {
+            "word": "feliz",
+            "meaning": "happy",
+            "pronunciation": "feh-LEES",
+            "examples": ["Estoy feliz."]
+          },
+          {
+            "word": "triste",
+            "meaning": "sad",
+            "pronunciation": "TREES-teh",
+            "examples": ["Ella está triste."]
+          },
+          {
+            "word": "enojado",
+            "meaning": "angry",
+            "pronunciation": "eh-noh-HAH-doh",
+            "examples": ["Él está enojado."]
+          },
+          {
+            "word": "cansado",
+            "meaning": "tired",
+            "pronunciation": "kahn-SAH-doh",
+            "examples": ["Estoy cansado."]
+          },
+          {
+            "word": "nervioso",
+            "meaning": "nervous",
+            "pronunciation": "nehr-BYOH-soh",
+            "examples": ["Estoy nervioso."]
+          },
+          {
+            "word": "contento",
+            "meaning": "content",
+            "pronunciation": "kohn-TEHN-toh",
+            "examples": ["Estoy contento."]
+          },
+          {
+            "word": "emocionado",
+            "meaning": "excited",
+            "pronunciation": "eh-moh-syo-NAH-doh",
+            "examples": ["Estoy emocionado."]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Places & Locations",
+        "description": "Talk about different places and where things are located",
+        "difficulty": 1,
+        "category": "places",
+        "words": [
+          {
+            "word": "casa",
+            "meaning": "house",
+            "pronunciation": "KAH-sah",
+            "examples": ["Mi casa es grande."]
+          },
+          {
+            "word": "calle",
+            "meaning": "street",
+            "pronunciation": "KAH-yeh",
+            "examples": ["La calle es larga."]
+          },
+          {
+            "word": "ciudad",
+            "meaning": "city",
+            "pronunciation": "syoo-DAHD",
+            "examples": ["Vivo en la ciudad."]
+          },
+          {
+            "word": "país",
+            "meaning": "country",
+            "pronunciation": "pah-EES",
+            "examples": ["Mi país es hermoso."]
+          },
+          {
+            "word": "mundo",
+            "meaning": "world",
+            "pronunciation": "MOON-doh",
+            "examples": ["Viajar por el mundo."]
+          }
+        ]
+      }
+    ]
+  },
+  "french": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Greetings",
+        "description": "Learn essential French greetings and polite expressions",
+        "difficulty": 1,
+        "category": "greetings",
+        "words": [
+          {
+            "word": "bonjour",
+            "meaning": "hello/good morning",
+            "pronunciation": "bon-ZHOOR",
+            "examples": ["Bonjour, comment allez-vous?", "Bonjour madame."]
+          },
+          {
+            "word": "bonsoir",
+            "meaning": "good evening",
+            "pronunciation": "bon-SWAHR",
+            "examples": ["Bonsoir, comment ça va?"]
+          },
+          {
+            "word": "au revoir",
+            "meaning": "goodbye",
+            "pronunciation": "oh ruh-VWAHR",
+            "examples": ["Au revoir, à bientôt!"]
+          },
+          {
+            "word": "salut",
+            "meaning": "hi/bye (informal)",
+            "pronunciation": "sah-LUU",
+            "examples": ["Salut! Comment ça va?"]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Politeness & Courtesy",
+        "description": "Master polite expressions and courteous phrases",
+        "difficulty": 1,
+        "category": "politeness",
+        "words": [
+          {
+            "word": "merci",
+            "meaning": "thank you",
+            "pronunciation": "mer-SEE",
+            "examples": ["Merci beaucoup!", "Merci pour votre aide."]
+          },
+          {
+            "word": "s'il vous plaît",
+            "meaning": "please",
+            "pronunciation": "seel voo PLEH",
+            "examples": ["S'il vous plaît, aidez-moi."]
+          },
+          {
+            "word": "excusez-moi",
+            "meaning": "excuse me",
+            "pronunciation": "ex-koo-ZAY mwah",
+            "examples": ["Excusez-moi, où est la gare?"]
+          },
+          {
+            "word": "pardon",
+            "meaning": "sorry",
+            "pronunciation": "par-DOH(n)",
+            "examples": ["Pardon, je n'ai pas compris."]
+          },
+          {
+            "word": "oui",
+            "meaning": "yes",
+            "pronunciation": "wee",
+            "examples": ["Oui, je veux."]
+          },
+          {
+            "word": "non",
+            "meaning": "no",
+            "pronunciation": "noh(n)",
+            "examples": ["Non, merci."]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Question Words",
+        "description": "Learn to ask questions in French",
+        "difficulty": 1,
+        "category": "questions",
+        "words": [
+          {
+            "word": "comment",
+            "meaning": "how",
+            "pronunciation": "koh-MAH(n)",
+            "examples": ["Comment allez-vous?"]
+          },
+          {
+            "word": "pourquoi",
+            "meaning": "why",
+            "pronunciation": "poor-KWAH",
+            "examples": ["Pourquoi pas?"]
+          },
+          {
+            "word": "où",
+            "meaning": "where",
+            "pronunciation": "oo",
+            "examples": ["Où est la salle de bain?"]
+          },
+          {
+            "word": "quand",
+            "meaning": "when",
+            "pronunciation": "kah(n)",
+            "examples": ["Quand partez-vous?"]
+          },
+          {
+            "word": "qui",
+            "meaning": "who",
+            "pronunciation": "kee",
+            "examples": ["Qui est là?"]
+          },
+          {
+            "word": "combien",
+            "meaning": "how much/many",
+            "pronunciation": "koh(m)-BYEH(n)",
+            "examples": ["Combien ça coûte?"]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Personal Pronouns",
+        "description": "Master French personal pronouns",
+        "difficulty": 1,
+        "category": "pronouns",
+        "words": [
+          {
+            "word": "je",
+            "meaning": "I",
+            "pronunciation": "zhuh",
+            "examples": ["Je suis français."]
+          },
+          {
+            "word": "tu",
+            "meaning": "you (informal)",
+            "pronunciation": "too",
+            "examples": ["Tu es belle."]
+          },
+          {
+            "word": "il/elle",
+            "meaning": "he/she",
+            "pronunciation": "eel/el",
+            "examples": ["Il est grand."]
+          },
+          {
+            "word": "nous",
+            "meaning": "we",
+            "pronunciation": "noo",
+            "examples": ["Nous mangeons."]
+          },
+          {
+            "word": "vous",
+            "meaning": "you (formal/plural)",
+            "pronunciation": "voo",
+            "examples": ["Vous parlez français."]
+          },
+          {
+            "word": "ils/elles",
+            "meaning": "they (masc/fem)",
+            "pronunciation": "eel/el",
+            "examples": ["Ils sont ici."]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Numbers 1-10",
+        "description": "Learn to count from one to ten in French",
+        "difficulty": 1,
+        "category": "numbers",
+        "words": [
+          {
+            "word": "un",
+            "meaning": "one",
+            "pronunciation": "uh(n)",
+            "examples": ["Un livre."]
+          },
+          {
+            "word": "deux",
+            "meaning": "two",
+            "pronunciation": "duh",
+            "examples": ["Deux pommes."]
+          },
+          {
+            "word": "trois",
+            "meaning": "three",
+            "pronunciation": "trwah",
+            "examples": ["Trois chats."]
+          },
+          {
+            "word": "quatre",
+            "meaning": "four",
+            "pronunciation": "katr",
+            "examples": ["Quatre voitures."]
+          },
+          {
+            "word": "cinq",
+            "meaning": "five",
+            "pronunciation": "sa(n)k",
+            "examples": ["Cinq doigts."]
+          },
+          {
+            "word": "six",
+            "meaning": "six",
+            "pronunciation": "sees",
+            "examples": ["Six chaises."]
+          },
+          {
+            "word": "sept",
+            "meaning": "seven",
+            "pronunciation": "set",
+            "examples": ["Sept jours."]
+          },
+          {
+            "word": "huit",
+            "meaning": "eight",
+            "pronunciation": "weet",
+            "examples": ["Huit heures."]
+          },
+          {
+            "word": "neuf",
+            "meaning": "nine",
+            "pronunciation": "nuhf",
+            "examples": ["Neuf oiseaux."]
+          },
+          {
+            "word": "dix",
+            "meaning": "ten",
+            "pronunciation": "dees",
+            "examples": ["Dix minutes."]
+          }
+        ]
+      }
+    ]
+  },
+  "german": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Greetings & Introductions",
+        "description": "Master essential German greetings and introduce yourself",
+        "difficulty": 1,
+        "category": "greetings",
+        "questions": [
+          {
+            "question": "How do you say 'hello' in German?",
+            "options": ["hallo", "guten Tag", "hi", "servus"],
+            "correct": 0,
+            "explanation": "Hallo is the most common way to say hello in German."
+          },
+          {
+            "question": "What does 'Guten Morgen' mean?",
+            "options": ["good evening", "good morning", "good night", "good afternoon"],
+            "correct": 1,
+            "explanation": "Guten Morgen means 'good morning' in German."
+          },
+          {
+            "question": "How do you say 'thank you' in German?",
+            "options": ["bitte", "danke", "entschuldigung", "tschüss"],
+            "correct": 1,
+            "explanation": "Danke means 'thank you' in German."
+          },
+          {
+            "question": "What is the German word for 'please'?",
+            "options": ["danke", "bitte", "ja", "nein"],
+            "correct": 1,
+            "explanation": "Bitte means 'please' and also 'you're welcome' in German."
+          },
+          {
+            "question": "How do you say 'goodbye' in German?",
+            "options": ["hallo", "auf Wiedersehen", "guten Tag", "danke"],
+            "correct": 1,
+            "explanation": "Auf Wiedersehen is the formal way to say goodbye in German."
+          },
+          {
+            "question": "What does 'Wie heißen Sie?' mean?",
+            "options": ["How are you?", "What's your name?", "Where are you from?", "How old are you?"],
+            "correct": 1,
+            "explanation": "Wie heißen Sie? means 'What's your name?' (formal) in German."
+          },
+          {
+            "question": "How do you say 'yes' in German?",
+            "options": ["nein", "ja", "vielleicht", "okay"],
+            "correct": 1,
+            "explanation": "Ja means 'yes' in German."
+          },
+          {
+            "question": "What is the German word for 'no'?",
+            "options": ["ja", "nein", "nicht", "kein"],
+            "correct": 1,
+            "explanation": "Nein means 'no' in German."
+          },
+          {
+            "question": "How do you say 'excuse me' in German?",
+            "options": ["danke", "bitte", "entschuldigung", "hallo"],
+            "correct": 2,
+            "explanation": "Entschuldigung means 'excuse me' or 'sorry' in German."
+          },
+          {
+            "question": "What does 'Wie geht es Ihnen?' mean?",
+            "options": ["What's your name?", "Where do you live?", "How are you?", "What time is it?"],
+            "correct": 2,
+            "explanation": "Wie geht es Ihnen? means 'How are you?' (formal) in German."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Numbers & Counting",
+        "description": "Learn German numbers from 1 to 20 and basic counting",
+        "difficulty": 1,
+        "category": "numbers",
+        "questions": [
+          {
+            "question": "How do you say 'one' in German?",
+            "options": ["eins", "zwei", "drei", "vier"],
+            "correct": 0,
+            "explanation": "Eins means 'one' in German."
+          },
+          {
+            "question": "What is the German word for 'five'?",
+            "options": ["vier", "fünf", "sechs", "sieben"],
+            "correct": 1,
+            "explanation": "Fünf means 'five' in German."
+          },
+          {
+            "question": "How do you say 'ten' in German?",
+            "options": ["neun", "zehn", "elf", "zwölf"],
+            "correct": 1,
+            "explanation": "Zehn means 'ten' in German."
+          },
+          {
+            "question": "What does 'sieben' mean?",
+            "options": ["six", "seven", "eight", "nine"],
+            "correct": 1,
+            "explanation": "Sieben means 'seven' in German."
+          },
+          {
+            "question": "How do you say 'three' in German?",
+            "options": ["zwei", "drei", "vier", "fünf"],
+            "correct": 1,
+            "explanation": "Drei means 'three' in German."
+          },
+          {
+            "question": "What is the German word for 'eight'?",
+            "options": ["sieben", "acht", "neun", "zehn"],
+            "correct": 1,
+            "explanation": "Acht means 'eight' in German."
+          },
+          {
+            "question": "How do you say 'fifteen' in German?",
+            "options": ["vierzehn", "fünfzehn", "sechzehn", "siebzehn"],
+            "correct": 1,
+            "explanation": "Fünfzehn means 'fifteen' in German."
+          },
+          {
+            "question": "What does 'zwanzig' mean?",
+            "options": ["twelve", "twenty", "thirty", "forty"],
+            "correct": 1,
+            "explanation": "Zwanzig means 'twenty' in German."
+          },
+          {
+            "question": "How do you say 'eleven' in German?",
+            "options": ["zehn", "elf", "zwölf", "dreizehn"],
+            "correct": 1,
+            "explanation": "Elf means 'eleven' in German."
+          },
+          {
+            "question": "What is the German word for 'nineteen'?",
+            "options": ["achtzehn", "neunzehn", "zwanzig", "einundzwanzig"],
+            "correct": 1,
+            "explanation": "Neunzehn means 'nineteen' in German."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Family & Relationships",
+        "description": "Learn vocabulary about family members and relationships",
+        "difficulty": 1,
+        "category": "family",
+        "questions": [
+          {
+            "question": "How do you say 'mother' in German?",
+            "options": ["Vater", "Mutter", "Schwester", "Bruder"],
+            "correct": 1,
+            "explanation": "Mutter means 'mother' in German."
+          },
+          {
+            "question": "What is the German word for 'father'?",
+            "options": ["Vater", "Mutter", "Sohn", "Tochter"],
+            "correct": 0,
+            "explanation": "Vater means 'father' in German."
+          },
+          {
+            "question": "How do you say 'sister' in German?",
+            "options": ["Bruder", "Schwester", "Tante", "Onkel"],
+            "correct": 1,
+            "explanation": "Schwester means 'sister' in German."
+          },
+          {
+            "question": "What does 'Großmutter' mean?",
+            "options": ["mother", "aunt", "grandmother", "sister"],
+            "correct": 2,
+            "explanation": "Großmutter means 'grandmother' in German."
+          },
+          {
+            "question": "How do you say 'son' in German?",
+            "options": ["Sohn", "Tochter", "Kind", "Baby"],
+            "correct": 0,
+            "explanation": "Sohn means 'son' in German."
+          },
+          {
+            "question": "What is the German word for 'uncle'?",
+            "options": ["Tante", "Onkel", "Cousin", "Neffe"],
+            "correct": 1,
+            "explanation": "Onkel means 'uncle' in German."
+          },
+          {
+            "question": "How do you say 'daughter' in German?",
+            "options": ["Sohn", "Tochter", "Nichte", "Enkelin"],
+            "correct": 1,
+            "explanation": "Tochter means 'daughter' in German."
+          },
+          {
+            "question": "What does 'Ehemann' mean?",
+            "options": ["boyfriend", "husband", "brother", "father"],
+            "correct": 1,
+            "explanation": "Ehemann means 'husband' in German."
+          },
+          {
+            "question": "How do you say 'grandparents' in German?",
+            "options": ["Eltern", "Großeltern", "Verwandte", "Familie"],
+            "correct": 1,
+            "explanation": "Großeltern means 'grandparents' in German."
+          },
+          {
+            "question": "What is the German word for 'child'?",
+            "options": ["Baby", "Kind", "Junge", "Mädchen"],
+            "correct": 1,
+            "explanation": "Kind means 'child' in German."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Colors & Descriptions",
+        "description": "Learn German colors and basic descriptive words",
+        "difficulty": 1,
+        "category": "colors",
+        "questions": [
+          {
+            "question": "How do you say 'red' in German?",
+            "options": ["blau", "rot", "grün", "gelb"],
+            "correct": 1,
+            "explanation": "Rot means 'red' in German."
+          },
+          {
+            "question": "What is the German word for 'blue'?",
+            "options": ["blau", "rot", "schwarz", "weiß"],
+            "correct": 0,
+            "explanation": "Blau means 'blue' in German."
+          },
+          {
+            "question": "How do you say 'green' in German?",
+            "options": ["gelb", "grün", "orange", "lila"],
+            "correct": 1,
+            "explanation": "Grün means 'green' in German."
+          },
+          {
+            "question": "What does 'schwarz' mean?",
+            "options": ["white", "black", "gray", "brown"],
+            "correct": 1,
+            "explanation": "Schwarz means 'black' in German."
+          },
+          {
+            "question": "How do you say 'yellow' in German?",
+            "options": ["gelb", "orange", "rosa", "lila"],
+            "correct": 0,
+            "explanation": "Gelb means 'yellow' in German."
+          },
+          {
+            "question": "What is the German word for 'white'?",
+            "options": ["schwarz", "grau", "weiß", "braun"],
+            "correct": 2,
+            "explanation": "Weiß means 'white' in German."
+          },
+          {
+            "question": "How do you say 'big' in German?",
+            "options": ["klein", "groß", "alt", "neu"],
+            "correct": 1,
+            "explanation": "Groß means 'big' or 'large' in German."
+          },
+          {
+            "question": "What does 'klein' mean?",
+            "options": ["big", "small", "old", "new"],
+            "correct": 1,
+            "explanation": "Klein means 'small' in German."
+          },
+          {
+            "question": "How do you say 'beautiful' in German?",
+            "options": ["hässlich", "schön", "alt", "jung"],
+            "correct": 1,
+            "explanation": "Schön means 'beautiful' or 'nice' in German."
+          },
+          {
+            "question": "What is the German word for 'old'?",
+            "options": ["neu", "jung", "alt", "frisch"],
+            "correct": 2,
+            "explanation": "Alt means 'old' in German."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Food & Drinks",
+        "description": "Essential German vocabulary for food and beverages",
+        "difficulty": 1,
+        "category": "food",
+        "questions": [
+          {
+            "question": "How do you say 'bread' in German?",
+            "options": ["Brot", "Käse", "Fleisch", "Fisch"],
+            "correct": 0,
+            "explanation": "Brot means 'bread' in German."
+          },
+          {
+            "question": "What is the German word for 'water'?",
+            "options": ["Milch", "Wasser", "Saft", "Bier"],
+            "correct": 1,
+            "explanation": "Wasser means 'water' in German."
+          },
+          {
+            "question": "How do you say 'coffee' in German?",
+            "options": ["Tee", "Kaffee", "Milch", "Wein"],
+            "correct": 1,
+            "explanation": "Kaffee means 'coffee' in German."
+          },
+          {
+            "question": "What does 'Fleisch' mean?",
+            "options": ["fish", "meat", "vegetables", "fruit"],
+            "correct": 1,
+            "explanation": "Fleisch means 'meat' in German."
+          },
+          {
+            "question": "How do you say 'apple' in German?",
+            "options": ["Apfel", "Banane", "Orange", "Birne"],
+            "correct": 0,
+            "explanation": "Apfel means 'apple' in German."
+          },
+          {
+            "question": "What is the German word for 'cheese'?",
+            "options": ["Butter", "Käse", "Milch", "Ei"],
+            "correct": 1,
+            "explanation": "Käse means 'cheese' in German."
+          },
+          {
+            "question": "How do you say 'beer' in German?",
+            "options": ["Wein", "Bier", "Wasser", "Saft"],
+            "correct": 1,
+            "explanation": "Bier means 'beer' in German."
+          },
+          {
+            "question": "What does 'Gemüse' mean?",
+            "options": ["fruit", "vegetables", "meat", "bread"],
+            "correct": 1,
+            "explanation": "Gemüse means 'vegetables' in German."
+          },
+          {
+            "question": "How do you say 'egg' in German?",
+            "options": ["Ei", "Milch", "Butter", "Zucker"],
+            "correct": 0,
+            "explanation": "Ei means 'egg' in German."
+          },
+          {
+            "question": "What is the German word for 'fish'?",
+            "options": ["Fleisch", "Huhn", "Fisch", "Schwein"],
+            "correct": 2,
+            "explanation": "Fisch means 'fish' in German."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Time & Days of the Week",
+        "description": "Learn to tell time and days of the week in German",
+        "difficulty": 1,
+        "category": "time",
+        "questions": [
+          {
+            "question": "How do you say 'Monday' in German?",
+            "options": ["Montag", "Dienstag", "Mittwoch", "Donnerstag"],
+            "correct": 0,
+            "explanation": "Montag means 'Monday' in German."
+          },
+          {
+            "question": "What is the German word for 'Friday'?",
+            "options": ["Donnerstag", "Freitag", "Samstag", "Sonntag"],
+            "correct": 1,
+            "explanation": "Freitag means 'Friday' in German."
+          },
+          {
+            "question": "How do you say 'today' in German?",
+            "options": ["gestern", "heute", "morgen", "übermorgen"],
+            "correct": 1,
+            "explanation": "Heute means 'today' in German."
+          },
+          {
+            "question": "What does 'Woche' mean?",
+            "options": ["day", "week", "month", "year"],
+            "correct": 1,
+            "explanation": "Woche means 'week' in German."
+          },
+          {
+            "question": "How do you say 'morning' in German?",
+            "options": ["Abend", "Nacht", "Morgen", "Mittag"],
+            "correct": 2,
+            "explanation": "Morgen means 'morning' in German."
+          },
+          {
+            "question": "What is the German word for 'evening'?",
+            "options": ["Morgen", "Mittag", "Abend", "Nacht"],
+            "correct": 2,
+            "explanation": "Abend means 'evening' in German."
+          },
+          {
+            "question": "How do you say 'yesterday' in German?",
+            "options": ["heute", "morgen", "gestern", "vorgestern"],
+            "correct": 2,
+            "explanation": "Gestern means 'yesterday' in German."
+          },
+          {
+            "question": "What does 'Uhr' mean?",
+            "options": ["time", "clock", "hour", "all of the above"],
+            "correct": 3,
+            "explanation": "Uhr can mean 'clock', 'time', or 'o'clock' in German."
+          },
+          {
+            "question": "How do you say 'Sunday' in German?",
+            "options": ["Samstag", "Sonntag", "Montag", "Freitag"],
+            "correct": 1,
+            "explanation": "Sonntag means 'Sunday' in German."
+          },
+          {
+            "question": "What is the German word for 'night'?",
+            "options": ["Tag", "Abend", "Morgen", "Nacht"],
+            "correct": 3,
+            "explanation": "Nacht means 'night' in German."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Body Parts & Health",
+        "description": "Learn German vocabulary for body parts and health",
+        "difficulty": 1,
+        "category": "body",
+        "questions": [
+          {
+            "question": "How do you say 'head' in German?",
+            "options": ["Kopf", "Gesicht", "Hals", "Haar"],
+            "correct": 0,
+            "explanation": "Kopf means 'head' in German."
+          },
+          {
+            "question": "What is the German word for 'hand'?",
+            "options": ["Fuß", "Bein", "Arm", "Hand"],
+            "correct": 3,
+            "explanation": "Hand means 'hand' in German."
+          },
+          {
+            "question": "How do you say 'eye' in German?",
+            "options": ["Ohr", "Nase", "Auge", "Mund"],
+            "correct": 2,
+            "explanation": "Auge means 'eye' in German."
+          },
+          {
+            "question": "What does 'Herz' mean?",
+            "options": ["lung", "heart", "stomach", "liver"],
+            "correct": 1,
+            "explanation": "Herz means 'heart' in German."
+          },
+          {
+            "question": "How do you say 'foot' in German?",
+            "options": ["Bein", "Fuß", "Zeh", "Knie"],
+            "correct": 1,
+            "explanation": "Fuß means 'foot' in German."
+          },
+          {
+            "question": "What is the German word for 'mouth'?",
+            "options": ["Zahn", "Zunge", "Mund", "Lippe"],
+            "correct": 2,
+            "explanation": "Mund means 'mouth' in German."
+          },
+          {
+            "question": "How do you say 'sick' in German?",
+            "options": ["gesund", "krank", "müde", "stark"],
+            "correct": 1,
+            "explanation": "Krank means 'sick' in German."
+          },
+          {
+            "question": "What does 'Bauch' mean?",
+            "options": ["back", "chest", "stomach", "shoulder"],
+            "correct": 2,
+            "explanation": "Bauch means 'stomach' or 'belly' in German."
+          },
+          {
+            "question": "How do you say 'healthy' in German?",
+            "options": ["krank", "müde", "gesund", "schwach"],
+            "correct": 2,
+            "explanation": "Gesund means 'healthy' in German."
+          },
+          {
+            "question": "What is the German word for 'ear'?",
+            "options": ["Auge", "Nase", "Ohr", "Mund"],
+            "correct": 2,
+            "explanation": "Ohr means 'ear' in German."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Weather & Seasons",
+        "description": "Describe weather conditions and seasons in German",
+        "difficulty": 1,
+        "category": "weather",
+        "questions": [
+          {
+            "question": "How do you say 'sunny' in German?",
+            "options": ["regnerisch", "sonnig", "bewölkt", "windig"],
+            "correct": 1,
+            "explanation": "Sonnig means 'sunny' in German."
+          },
+          {
+            "question": "What is the German word for 'rain'?",
+            "options": ["Schnee", "Regen", "Wind", "Sonne"],
+            "correct": 1,
+            "explanation": "Regen means 'rain' in German."
+          },
+          {
+            "question": "How do you say 'winter' in German?",
+            "options": ["Frühling", "Sommer", "Herbst", "Winter"],
+            "correct": 3,
+            "explanation": "Winter means 'winter' in German."
+          },
+          {
+            "question": "What does 'heiß' mean?",
+            "options": ["cold", "hot", "warm", "cool"],
+            "correct": 1,
+            "explanation": "Heiß means 'hot' in German."
+          },
+          {
+            "question": "How do you say 'spring' in German?",
+            "options": ["Frühling", "Sommer", "Herbst", "Winter"],
+            "correct": 0,
+            "explanation": "Frühling means 'spring' in German."
+          },
+          {
+            "question": "What is the German word for 'snow'?",
+            "options": ["Regen", "Schnee", "Hagel", "Nebel"],
+            "correct": 1,
+            "explanation": "Schnee means 'snow' in German."
+          },
+          {
+            "question": "How do you say 'cold' in German?",
+            "options": ["warm", "heiß", "kalt", "kühl"],
+            "correct": 2,
+            "explanation": "Kalt means 'cold' in German."
+          },
+          {
+            "question": "What does 'Wetter' mean?",
+            "options": ["water", "weather", "wind", "winter"],
+            "correct": 1,
+            "explanation": "Wetter means 'weather' in German."
+          },
+          {
+            "question": "How do you say 'autumn/fall' in German?",
+            "options": ["Frühling", "Sommer", "Herbst", "Winter"],
+            "correct": 2,
+            "explanation": "Herbst means 'autumn' or 'fall' in German."
+          },
+          {
+            "question": "What is the German word for 'cloudy'?",
+            "options": ["sonnig", "regnerisch", "bewölkt", "klar"],
+            "correct": 2,
+            "explanation": "Bewölkt means 'cloudy' in German."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Transportation & Travel",
+        "description": "Learn German vocabulary for transportation and travel",
+        "difficulty": 1,
+        "category": "travel",
+        "questions": [
+          {
+            "question": "How do you say 'car' in German?",
+            "options": ["Auto", "Bus", "Zug", "Flugzeug"],
+            "correct": 0,
+            "explanation": "Auto means 'car' in German."
+          },
+          {
+            "question": "What is the German word for 'train'?",
+            "options": ["Bus", "Zug", "Taxi", "Schiff"],
+            "correct": 1,
+            "explanation": "Zug means 'train' in German."
+          },
+          {
+            "question": "How do you say 'airplane' in German?",
+            "options": ["Hubschrauber", "Flugzeug", "Boot", "Fahrrad"],
+            "correct": 1,
+            "explanation": "Flugzeug means 'airplane' in German."
+          },
+          {
+            "question": "What does 'Bahnhof' mean?",
+            "options": ["airport", "train station", "bus stop", "harbor"],
+            "correct": 1,
+            "explanation": "Bahnhof means 'train station' in German."
+          },
+          {
+            "question": "How do you say 'bicycle' in German?",
+            "options": ["Motorrad", "Fahrrad", "Roller", "Skateboard"],
+            "correct": 1,
+            "explanation": "Fahrrad means 'bicycle' in German."
+          },
+          {
+            "question": "What is the German word for 'ticket'?",
+            "options": ["Karte", "Fahrkarte", "Ticket", "all of the above"],
+            "correct": 3,
+            "explanation": "Fahrkarte, Karte, and Ticket are all used for 'ticket' in German."
+          },
+          {
+            "question": "How do you say 'bus stop' in German?",
+            "options": ["Bahnhof", "Bushaltestelle", "Flughafen", "Hafen"],
+            "correct": 1,
+            "explanation": "Bushaltestelle means 'bus stop' in German."
+          },
+          {
+            "question": "What does 'fahren' mean?",
+            "options": ["to walk", "to drive/travel", "to fly", "to swim"],
+            "correct": 1,
+            "explanation": "Fahren means 'to drive' or 'to travel' in German."
+          },
+          {
+            "question": "How do you say 'airport' in German?",
+            "options": ["Bahnhof", "Hafen", "Flughafen", "Bushaltestelle"],
+            "correct": 2,
+            "explanation": "Flughafen means 'airport' in German."
+          },
+          {
+            "question": "What is the German word for 'ship'?",
+            "options": ["Boot", "Schiff", "Yacht", "all of the above"],
+            "correct": 3,
+            "explanation": "Boot, Schiff, and Yacht are all words for different types of ships in German."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Shopping & Money",
+        "description": "Essential German vocabulary for shopping and handling money",
+        "difficulty": 1,
+        "category": "shopping",
+        "questions": [
+          {
+            "question": "How do you say 'money' in German?",
+            "options": ["Geld", "Euro", "Münze", "Schein"],
+            "correct": 0,
+            "explanation": "Geld means 'money' in German."
+          },
+          {
+            "question": "What is the German word for 'expensive'?",
+            "options": ["billig", "teuer", "kostenlos", "günstig"],
+            "correct": 1,
+            "explanation": "Teuer means 'expensive' in German."
+          },
+          {
+            "question": "How do you say 'cheap' in German?",
+            "options": ["teuer", "billig", "kostenlos", "wertvoll"],
+            "correct": 1,
+            "explanation": "Billig means 'cheap' in German."
+          },
+          {
+            "question": "What does 'kaufen' mean?",
+            "options": ["to sell", "to buy", "to pay", "to save"],
+            "correct": 1,
+            "explanation": "Kaufen means 'to buy' in German."
+          },
+          {
+            "question": "How do you say 'shop/store' in German?",
+            "options": ["Markt", "Geschäft", "Laden", "all of the above"],
+            "correct": 3,
+            "explanation": "Geschäft, Laden, and Markt are all words for shop/store in German."
+          },
+          {
+            "question": "What is the German word for 'price'?",
+            "options": ["Kosten", "Preis", "Wert", "Summe"],
+            "correct": 1,
+            "explanation": "Preis means 'price' in German."
+          },
+          {
+            "question": "How do you say 'How much does it cost?' in German?",
+            "options": ["Wie viel kostet es?", "Was kostet das?", "Wie teuer ist es?", "all of the above"],
+            "correct": 3,
+            "explanation": "All these phrases mean 'How much does it cost?' in German."
+          },
+          {
+            "question": "What does 'verkaufen' mean?",
+            "options": ["to buy", "to sell", "to pay", "to exchange"],
+            "correct": 1,
+            "explanation": "Verkaufen means 'to sell' in German."
+          },
+          {
+            "question": "How do you say 'receipt' in German?",
+            "options": ["Rechnung", "Quittung", "Beleg", "all of the above"],
+            "correct": 3,
+            "explanation": "Rechnung, Quittung, and Beleg are all words for receipt in German."
+          },
+          {
+            "question": "What is the German word for 'customer'?",
+            "options": ["Verkäufer", "Kunde", "Käufer", "both B and C"],
+            "correct": 3,
+            "explanation": "Both Kunde and Käufer mean 'customer' in German."
+          }
+        ]
+      }
+    ]
+  }
+}
+
